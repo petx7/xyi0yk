@@ -131,7 +131,141 @@
       "home": "Dom",
       "back_to_home": "Wróć do strony głównej",
       "collections": "Kolekcje",
-      "default_collection": "Wszystkie produkty"
+      "default_collection": "Wszystkie produkty",
+      "products": "Produkty"
+    },
+    "onboarding": {
+      "popup_title": "Ta strona pokaże wszystkie produkty Twojego sklepu",
+      "no_products_html": "Nie ma jeszcze produktów, ale kiedy zaczniesz je dodawać, pojawią się tutaj, niezależnie od tego, czy znajdują się w kolekcji.",
+      "add_product": "Dodaj produkt"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "Nazwa",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "message": "Wiadomość",
+      "send": "Wysłać",
+      "post_success": "Dzięki za skontaktowanie się z nami. Skontaktujemy się z Tobą tak szybko, jak to możliwe."
+    }
+  },
+  "customer": {
+    "account": {
+      "title": "Moje konto",
+      "details": "Szczegóły konta",
+      "view_addresses": "Wyświetl adresy",
+      "return": "Wróć do szczegółów konta"
+    },
+    "activate_account": {
+      "title": "Aktywuj konto",
+      "subtext": "Utwórz hasło, aby aktywować swoje konto.",
+      "password": "Hasło",
+      "password_confirm": "Potwierdź hasło",
+      "submit": "Aktywuj konto",
+      "cancel": "Odrzuć zaproszenie"
+    },
+    "addresses": {
+      "title": "Twoje adresy",
+      "default": "Domyślny",
+      "add_new": "Dodaj nowy adres",
+      "edit_address": "Edytuj adres",
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "company": "Firma",
+      "address1": "Adres1",
+      "address2": "Adres2",
+      "city": "Miasto",
+      "country": "Kraj",
+      "province": "Województwo",
+      "zip": "Kod pocztowy/pocztowy",
+      "phone": "Telefon",
+      "set_default": "Ustaw jako adres domyślny",
+      "add": "Dodaj adres",
+      "update": "Adres aktualizacji",
+      "cancel": "Anulować",
+      "edit": "Redagować",
+      "delete": "Usuwać",
+      "delete_confirm": "Czy na pewno chcesz usunąć ten adres?"
+    },
+    "login": {
+      "title": "Login",
+      "email": "E-mail",
+      "password": "Hasło",
+      "forgot_password": "Zapomniałeś hasła?",
+      "sign_in": "Zalogować się",
+      "cancel": "Wróć do sklepu",
+      "guest_title": "Kontynuuj jako gość",
+      "guest_continue": "Kontynuować",
+      "create_account_prompt": "Nie masz konta?",
+      "create_account_cta": "Zarejestruj się tutaj."
+    },
+    "orders": {
+      "title": "Historia zamówienia",
+      "order_number": "Zamówienie",
+      "date": "Data",
+      "payment_status": "Status płatności",
+      "fulfillment_status": "Status spełnienia",
+      "total": "Całkowity",
+      "none": "Nie złożyłeś jeszcze żadnych zamówień."
+    },
+    "order": {
+      "title": "Zamówienie {{ name }}",
+      "date": "Umieszczony {{ date }}",
+      "cancelled": "Zamów anulowany {{ date }}",
+      "cancelled_reason": "Powód: {{ reason }}",
+      "billing_address": "Adres rozliczeniowy",
+      "payment_status": "Status płatności",
+      "shipping_address": "Adres wysyłki",
+      "fulfillment_status": "Status spełnienia",
+      "discount": "Rabat",
+      "shipping": "Wysyłka",
+      "tax": "Podatek",
+      "product": "Produkt",
+      "sku": "SKU",
+      "price": "Cena",
+      "quantity": "Ilość",
+      "total": "Całkowity",
+      "fulfilled_at": "Spełniony {{ date }}",
+      "subtotal": "SubTotal"
+    },
+    "recover_password": {
+      "title": "Zresetuj hasło",
+      "email": "E-mail",
+      "submit": "Składać",
+      "cancel": "Anulować",
+      "subtext": "Wyślemy Ci wiadomość e -mail, aby zresetować twoje hasło.",
+      "success": "Wysłaliśmy Ci wiadomość e -mail z linkiem do aktualizacji hasła."
+    },
+    "reset_password": {
+      "title": "Zresetuj hasło do konta",
+      "subtext": "Wprowadź nowe hasło dla {{ email }}",
+      "password": "Hasło",
+      "password_confirm": "Potwierdź hasło",
+      "submit": "Zresetuj hasło"
+    },
+    "register": {
+      "title": "Utwórz konto",
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "email": "E-mail",
+      "password": "Hasło",
+      "submit": "Tworzyć",
+      "cancel": "Wróć do sklepu"
+    }
+  },
+  "password": {
+    "page": {
+      "title": "Otwarcie wkrótce"
+    },
+    "form": {
+      "success": "Dziękuję za rejestrację!",
+      "newsletter_title": "Subskrybuj aktualizacje",
+      "placeholder": "email@example.com",
+      "login": "Hasło"
+    },
+    "buttons": {
+      "sign_up": "Zapisać się"
     }
   }
 }
