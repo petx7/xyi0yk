@@ -7,4 +7,131 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{}
+{
+  "blogs": {
+    "article": {
+      "by_author": "Przez {{ author }}",
+      "older_post": "Starszy post",
+      "newer_post": "Nowszy post",
+      "tags": "Tagi",
+      "filter_by_tags": "Filtr według znaczników",
+      "clear_tags": "Wyczyść wszystko",
+      "comment_meta_html": "{{ author }} NA {{ date }}",
+      "read_more": "Przeczytaj więcej",
+      "onboarding": {
+        "title": "Tytuł postu na blogu",
+        "excerpt": "Po utworzeniu postu na blogu zawartość pojawi się tutaj.",
+        "tag": "etykietka",
+        "author": "Nazwa autora"
+      }
+    },
+    "comments": {
+      "title": "Zostaw komentarz",
+      "name": "Nazwa",
+      "email": "E-mail",
+      "message": "Wiadomość",
+      "post_comment": "Opublikuj komentarz",
+      "moderated": "Uwaga: komentarze muszą zostać zatwierdzone przed ich opublikowaniem",
+      "success_moderated": "Twój komentarz został pomyślnie opublikowany. Za chwilę opublikujemy to, ponieważ nasz blog jest moderowany.",
+      "success": "Twój komentarz został pomyślnie opublikowany! Dziękuję!",
+      "unapproved": "Podany adres e -mail nie jest zatwierdzony do publikowania komentarzy.",
+      "comments_with_count": {
+        "one": "{{ count }} komentarz",
+        "other": "{{ count }} uwagi"
+      }
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Wózek",
+      "remove": "Usunąć",
+      "note": "Dodaj notatkę dla odbiorcy",
+      "discount_label": "Oszczędzasz {{ amount }} z {{ title }}",
+      "subtotal": "SubTotal",
+      "subtotal_items": "Rzeczy",
+      "shipping_at_checkout": "Wysyłka i podatki obliczone przy kasie",
+      "customer_note": "Specjalne instrukcje dla sprzedawcy",
+      "cart_notes_label": "Dodaj notatki zamówienia",
+      "gift_notes_label": "Czy to prezent? Dodaj notatkę.",
+      "gift_note_attribute": "Uwaga na prezent",
+      "update": "Zaktualizuj wózek",
+      "checkout": "Wymeldować się",
+      "empty": "Twój koszyk jest obecnie pusty.",
+      "accept_terms": "Musisz zaakceptować nasze warunki.",
+      "accepted_terms": "Przyjęte warunki/warunki?",
+      "zero_qty_error": "Ilość musi być większa niż 0.",
+      "limit_error": "Przepraszam, wygląda na to, że nie mamy dość tego produktu.",
+      "continue_shopping": "Kontynuuj zakupy",
+      "close_cart": "Zamknij wózek",
+      "free_shipping_message_html": "Wydawać <span data-free-shipping-amount=\"\">{{ amount }}</span> Aby zakwalifikować się do bezpłatnej wysyłki",
+      "qualified_shipping_message": "Bezpłatna wysyłka zostanie zastosowana przy kasie"
+    },
+    "label": {
+      "product": "Produkt",
+      "price": "Cena",
+      "quantity": "Ilość",
+      "items_with_count": {
+        "one": "{{ count }} przedmiot",
+        "other": "{{ count }} rzeczy"
+      },
+      "total": "Całkowity"
+    }
+  },
+  "collection": {
+    "filters": {
+      "apply": "Stosować",
+      "clear": "Jasne",
+      "close": "Pokaż moje wyniki",
+      "empty": "Nie znaleziono produktów",
+      "from": "Z",
+      "filter_and_sort": "Filtr i sortować",
+      "filter_by_label": "Filtr przez",
+      "filter_button": "Filtr",
+      "filters_selected": {
+        "one": "{{ count }} wybrany",
+        "other": "{{ count }} wybrany"
+      },
+      "max_price": "Najwyższa cena to {{ price }}",
+      "product_count": {
+        "one": "Seans {{ product_count }} z {{ count }} produkt",
+        "other": "Seans {{ product_count }} z {{ count }} produkty"
+      },
+      "reset": "Nastawić",
+      "sort_button": "Sortować",
+      "show_more": "Pokaż więcej",
+      "show_less": "Pokaż mniej",
+      "title": "Kolekcja",
+      "to": "Do",
+      "use_fewer_filters_html": "Użyj mniej filtrów lub <a class=\"{{ class }}\" href=\"{{ link }}\">Wyczyść wszystko</a>"
+    }
+  },
+  "collections": {
+    "general": {
+      "list_collections": "Kolekcje",
+      "all_of_collection": "Wszystko {{ collection }}",
+      "view_collection": "Widok kolekcja",
+      "no_matches": "Przepraszam, w tej kolekcji nie ma produktów.",
+      "no_matches_by_filter": "{{ products_count }} Produkty znalezione z tymi opcjami.",
+      "shop": "Sklep"
+    },
+    "sorting": {
+      "title": "Sortować",
+      "browse_by": "Przeglądaj przez",
+      "browse_all": "Wszystko",
+      "featured": "Wyróżniony",
+      "best_selling": "Najlepiej sprzedająca się",
+      "az": "Alfabetycznie, A-Z",
+      "za": "Alfabetycznie, Z-A",
+      "price_ascending": "Cena, od niskiej do wysokości",
+      "price_descending": "Cena, wysoka do niskiej",
+      "date_descending": "Data, nowy dla starego",
+      "date_ascending": "Data, stary do nowego"
+    },
+    "breadcrumbs": {
+      "home": "Dom",
+      "back_to_home": "Wróć do strony głównej",
+      "collections": "Kolekcje",
+      "default_collection": "Wszystkie produkty"
+    }
+  }
+}
