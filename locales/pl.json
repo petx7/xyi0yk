@@ -71,10 +71,10 @@
       "price": "Cena",
       "quantity": "Ilość",
       "items_with_count": {
-        "one": "{{ count }} przedmiot",
-        "other": "{{ count }} rzeczy"
+        "one": "{{ count }} produkt",
+        "other": "{{ count }} produkt"
       },
-      "total": "Całkowity"
+      "total": "Suma"
     }
   },
   "collection": {
