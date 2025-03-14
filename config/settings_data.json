@@ -9,12 +9,12 @@
  */
 {
   "current": {
-    "color_body_bg": "#000000",
-    "color_body_bg_secondary": "#ffffff",
-    "color_headings": "#ffffff",
-    "color_body_text": "#ffffff",
-    "color_accent": "#ffffff",
-    "color_borders_and_lines": "#ffffff",
+    "color_body_bg": "#ffffff",
+    "color_body_bg_secondary": "#000000",
+    "color_headings": "#000000",
+    "color_body_text": "#000000",
+    "color_accent": "#000000",
+    "color_borders_and_lines": "#000000",
     "type_heading_font": "archivo_narrow_n7",
     "heading_caps": true,
     "heading_size": 75,
