@@ -409,7 +409,79 @@
       "view_in_space_label": "Zobacz w Twojej przestrzeni, ładuje element w oknie rzeczywistości rozszerzonej",
       "subscription": "Prenumerata",
       "save": "Ratować",
-      "unit_price_label": "Cena jednostkowa"
+      "unit_price_label": "Cena jednostkowa",
+      "popup_missing": "Wybierz stronę z ustawień blokowych.",
+      "popup_text_missing": "Nie dodano tekstu na wybranej stronie",
+      "show_more": "Pokaż więcej",
+      "show_less": "Pokaż mniej",
+      "variant_option_image": "Rozmiar"
     }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Oto twój {{ value }} Karta podarunkowa dla {{ shop }}!",
+      "subtext": "Oto Twoja karta podarunkowa!",
+      "disabled": "Wyłączony",
+      "expired": "Wygasł {{ expiry }}",
+      "active": "Wygasa na {{ expiry }}",
+      "redeem": "Użyj tego kodu przy kasie, aby wymienić swoją kartę podarunkową",
+      "shop_link": "Zacznij robić zakupy",
+      "print": "Wydrukować",
+      "add_to_apple_wallet": "Dodaj do portfela Apple",
+      "gift_card": "Karta podarunkowa"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "Chcę wysłać to jako prezent",
+      "email_label": "Odbiorca e -mail",
+      "email": "Odbiorca e -mail",
+      "name_label": "Nazwa odbiorcy (opcjonalnie)",
+      "name": "Nazwa odbiorcy (opcjonalnie)",
+      "message_label": "Wiadomość (opcjonalnie)",
+      "message": "Wiadomość (opcjonalnie)",
+      "max_characters": "{{ max_chars }} Znaki Max",
+      "error_heading": "Dostosuj następujące czynności:",
+      "send_on": "ROYYY-MM-DD",
+      "send_on_label": "Wyślij (opcjonalnie)"
+    }
+  },
+  "countdown": {
+    "heading": "Kupuj, zanim to się skończy.",
+    "ends": "Kończy się",
+    "days": "Dni",
+    "hours": "Godziny",
+    "minutes": "Protokół",
+    "seconds": "Towary drugiej jakości"
+  },
+  "date_formats": {
+    "month_day_year": "%B %d, %Y"
+  },
+  "footer": {
+    "socials": {
+      "title": "Pogląd {{ shop_name }} NA {{ social }}",
+      "rss": "Rss"
+    },
+    "country": "Kraj",
+    "language": "Język",
+    "update": "Aktualizacja",
+    "powered_by": "Zasilane przez"
+  },
+  "store_availability": {
+    "general": {
+      "view_store_info": "Wyświetl informacje o sklepie",
+      "check_other_stores": "Sprawdź dostępność w innych sklepach",
+      "pick_up_available": "Dostępny odbiór",
+      "pick_up_currently_unavailable": "Pickup obecnie niedostępny",
+      "pick_up_available_at_html": "Pickup dostępny w <strong>{{ location_name }}</strong>",
+      "pick_up_unavailable_at_html": "Odbiór obecnie niedostępny w <strong>{{ location_name }}</strong>",
+      "kilometers": "km",
+      "miles": "mi"
+    }
+  },
+  "slideshow": {
+    "previous": "Poprzedni",
+    "next": "Następny",
+    "scroll_down": "Przewiń w dół"
   }
 }
