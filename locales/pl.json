@@ -265,7 +265,151 @@
       "login": "Hasło"
     },
     "buttons": {
-      "sign_up": "Zapisać się"
+      "sign_up": "Zapisać się",
+      "store_login": "Zaloguj się do przechowywania",
+      "newsletter_signup": "Rejestracja w biuletynie",
+      "login": "Login"
+    }
+  },
+  "homepage": {
+    "onboarding": {
+      "popup_title": "Prawie tam ...",
+      "no_products_html": "Wybierz kolekcję, która ma zostać przedstawiona w tej sekcji. Jeśli żaden nie zostanie wybrany, pojawią się wszystkie produkty. Możesz wyłączyć tę sekcję, klikając dostosuj motyw, a następnie „Strona główna”.",
+      "color": "Kolor",
+      "size": "Rozmiar",
+      "add_product": "Dodaj produkt",
+      "product_title": "Tytuł produktu",
+      "vendor": "Shopify",
+      "no_collections_html": "Nie masz tutaj żadnych kolekcji. <a href=\"/admin/custom_collections\">Dodaj kilka kolekcji</a> Aby towarzyszyć domyślnej stronie frontPage.",
+      "add_collection": "Dodaj kolekcję",
+      "collection_title": "Kolekcja",
+      "single_product_title": "Zaprezentuj jeden produkt",
+      "single_product_description": "Po wybraniu produktu jego opis zapełni się tutaj automatycznie.",
+      "single_collection_description": "Po wybraniu kolekcji jego opis zapełni się tutaj automatycznie.",
+      "single_collection_products_description": "Po wybraniu kolekcji jego opisy produktów zostaną tutaj automatycznie zapełniane.",
+      "no_content": "Ta sekcja nie zawiera obecnie żadnej treści. Dodaj zawartość do tej sekcji za pomocą paska bocznego.",
+      "no_page_content": "Ta strona nie zawiera obecnie żadnej treści.",
+      "slideshow": {
+        "heading": "Witamy w Palo Alto",
+        "subheading": "To podtytuł pomaga podać więcej szczegółów do powyższego tytułu.",
+        "button_text": "Powitanie",
+        "video_button_text": "Obejrzyj ten film"
+      },
+      "faq": {
+        "question": "Pytanie",
+        "answer": "Użyj tego bloku odpowiedzi, aby omówić niektóre powszechnie zadawane pytania, które odkryłeś z interakcji swoich klientów. Możesz omówić szczegóły produktu, dopasowanie wielkości, zasady wysyłki lub cokolwiek, co Twoim zdaniem pomogłoby sprzedawcom podjąć świadomą decyzję o Twoim produkcie lub kolekcji. Ta sekcja pojawi się we wszystkich produktach."
+      },
+      "blog": {
+        "title": "Tytuł postu na blogu",
+        "excerpt": "Po utworzeniu postu na blogu lub wybierzeniu bloga jego zawartość pojawi się tutaj.",
+        "date": "15 lutego",
+        "tag": "etykietka"
+      },
+      "locations": {
+        "address": "566 Emerson Street Palo Alto, Kalifornia",
+        "working_hours_html": "Pon - pt.: 8:00 - 17:00<br>SAT: Zamknięte<br>Słońce: zamknięte"
+      },
+      "icons_row": {
+        "title": "Funkcja",
+        "text": "Palo Alto to potężny motyw Shopify, który wyróżni cię od reszty z różnymi sekcjami i funkcjami."
+      },
+      "testimonials": {
+        "testimonial": "Użyj tego referencji jako okazji dla swoich klientów do omówienia Twojej marki i tego, co wyróżnia konkurencję.",
+        "customer_name_1": "Sherlock Holmes",
+        "customer_name_2": "John Watson",
+        "customer_name_3": "Mycroft Holmes"
+      },
+      "shop_the_look": {
+        "heading": "Nasza historia",
+        "text": "Użyj tego tekstu, aby udostępnić informacje o swojej marce swoim klientom. Opisz produkt, ogłoszenia udostępniania lub powitaj klientów w Twoim sklepie.",
+        "button_text": "Kupuj teraz"
+      },
+      "press": {
+        "text": "Podaj informacje o tym, co firma poniżej myśli o Twojej marce.",
+        "read_more": "Przeczytaj więcej"
+      },
+      "products_with_image": {
+        "title": "Bestsellers"
+      },
+      "banner_image": {
+        "title": "Palo Alto"
+      }
+    }
+  },
+  "layout": {
+    "navigation": {
+      "menu": "Menu",
+      "search": "Szukaj",
+      "see_more": "Zobacz więcej"
+    },
+    "drawers": {
+      "browse": "Przeglądać",
+      "close_menu": "Zamknij menu"
+    },
+    "cart": {
+      "title": "Wózek",
+      "items_count": {
+        "one": "przedmiot",
+        "other": "rzeczy"
+      }
+    },
+    "customer": {
+      "account": "Konto",
+      "logged_in_as_html": "Zalogowane jako {{ first_name }}",
+      "log_out": "Wyloguj się",
+      "log_in": "Zaloguj się",
+      "create_account": "Utwórz konto",
+      "my_account": "Moje konto"
+    }
+  },
+  "products": {
+    "general": {
+      "catalog": "Katalog",
+      "previous_product_html": "← Poprzedni produkt",
+      "next_product_html": "Następny produkt →",
+      "from_text_html": "Z {{ price }}",
+      "sale_price": "Cena sprzedaży",
+      "regular_price": "Regularna cena",
+      "description": "opis",
+      "view_all_details": "Zobacz wszystkie szczegóły",
+      "shop_now": "Kupuj teraz",
+      "filters": "Filtry",
+      "filter_by": "Filtr przez",
+      "reset": "Jasne filtry",
+      "clear_filters": "Wyczyść wszystko",
+      "close": "Zamknij filtry",
+      "products_with_count": {
+        "one": "{{ count }} produkt",
+        "other": "{{ count }} produkty"
+      },
+      "see_all": "Zobacz wszystkie"
+    },
+    "product": {
+      "sold_out": "Wyprzedane",
+      "sale": "Sprzedaż",
+      "preorder": "Zamówienie w przedsprzedaży",
+      "one_time_purchase": "Jednorazowy zakup",
+      "free": "Bezpłatny",
+      "unavailable": "Nie płynny",
+      "compare_at": "Porównaj w",
+      "quantity": "Ilość",
+      "add_to_cart": "Dodaj do koszyka",
+      "buy_it_now": "Kup teraz",
+      "in_stock": "Przedmiot jest w magazynie",
+      "out_of_stock": "Przedmiot jest niedostępny",
+      "item_unavailable": "Przedmiot jest niedostępny",
+      "remaining_html": "Tylko {{ inventory }} pozostawione w magazynie",
+      "remaining_no_count": "Spieszyć się! Niski zapas",
+      "on_sale": "Sprzedaż",
+      "save_badge_html": "Ratować {{ discount }}",
+      "save_badge_up_to_html": "Zaoszczędź do {{ discount }}",
+      "quick_view": "Szybki zakup",
+      "checkout": "Wymeldować się",
+      "view_in_space": "Zobacz w Twojej przestrzeni",
+      "view_in_space_label": "Zobacz w Twojej przestrzeni, ładuje element w oknie rzeczywistości rozszerzonej",
+      "subscription": "Prenumerata",
+      "save": "Ratować",
+      "unit_price_label": "Cena jednostkowa"
     }
   }
 }
