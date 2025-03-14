@@ -43,28 +43,28 @@
   },
   "cart": {
     "general": {
-      "title": "Wózek",
-      "remove": "Usunąć",
+      "title": "Koszyk",
+      "remove": "Usuń",
       "note": "Dodaj notatkę dla odbiorcy",
       "discount_label": "Oszczędzasz {{ amount }} z {{ title }}",
-      "subtotal": "SubTotal",
-      "subtotal_items": "Rzeczy",
-      "shipping_at_checkout": "Wysyłka i podatki obliczone przy kasie",
+      "subtotal": "Suma częściowa",
+      "subtotal_items": "Produkty",
+      "shipping_at_checkout": "Koszty wysyłki i podatki zostaną obliczone przy kasie",
       "customer_note": "Specjalne instrukcje dla sprzedawcy",
-      "cart_notes_label": "Dodaj notatki zamówienia",
+      "cart_notes_label": "Dodaj uwagi do zamówienia",
       "gift_notes_label": "Czy to prezent? Dodaj notatkę.",
-      "gift_note_attribute": "Uwaga na prezent",
-      "update": "Zaktualizuj wózek",
-      "checkout": "Wymeldować się",
+      "gift_note_attribute": "Notatka do prezentu",
+      "update": "Zaktualizuj koszyk",
+      "checkout": "Przejdź do kasy",
       "empty": "Twój koszyk jest obecnie pusty.",
-      "accept_terms": "Musisz zaakceptować nasze warunki.",
-      "accepted_terms": "Przyjęte warunki/warunki?",
+      "accept_terms": "Musisz zaakceptować nasze warunki i zasady.",
+      "accepted_terms": "Zaakceptowane warunki?",
       "zero_qty_error": "Ilość musi być większa niż 0.",
-      "limit_error": "Przepraszam, wygląda na to, że nie mamy dość tego produktu.",
+      "limit_error": "Przepraszamy, wygląda na to, że nie mamy wystarczającej ilości tego produktu.",
       "continue_shopping": "Kontynuuj zakupy",
-      "close_cart": "Zamknij wózek",
-      "free_shipping_message_html": "Wydawać <span data-free-shipping-amount=\"\">{{ amount }}</span> Aby zakwalifikować się do bezpłatnej wysyłki",
-      "qualified_shipping_message": "Bezpłatna wysyłka zostanie zastosowana przy kasie"
+      "close_cart": "Zamknij koszyk",
+      "free_shipping_message_html": "Wydaj <span data-free-shipping-amount=''>{{ amount }}</span>, aby otrzymać darmową wysyłkę",
+      "qualified_shipping_message": "Darmowa wysyłka zostanie naliczona przy kasie"
     },
     "label": {
       "product": "Produkt",
@@ -483,5 +483,8 @@
     "previous": "Poprzedni",
     "next": "Następny",
     "scroll_down": "Przewiń w dół"
+  },
+  "video": {
+    "play_bg_video": "Odtwórz wideo w tle"
   }
 }
