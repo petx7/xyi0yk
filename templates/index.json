@@ -532,8 +532,8 @@
         "aspect_ratio_desktop": 1.5,
         "aspect_ratio_mobile": 1,
         "layout_mobile": "sticky",
-        "text_color": "text-light",
-        "bg_color": "#000000",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff",
         "width": "wrapper--full-padded",
         "padding_top": 100,
         "padding_bottom": 100
