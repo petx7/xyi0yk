@@ -691,38 +691,38 @@
         "padding_bottom": 80
       }
     },
-    "section-icons-row-0": {
+    "section_icons_row_jdfMxj": {
       "type": "section-icons-row",
       "blocks": {
-        "text_UiJmAA": {
+        "text_d9ggqM": {
           "type": "text",
           "settings": {
-            "icon_name": "bell",
-            "title": "SHOPIFY THEMES",
-            "text": "<p>SHOP AT WWW.TRIKRU.CO</p>"
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all order over $99</p>"
           }
         },
-        "text_6PaPQF": {
+        "text_w6aWng": {
           "type": "text",
           "settings": {
-            "icon_name": "bell",
-            "title": "SHOPIFY THEMES",
-            "text": "<p>SHOP AT WWW.TRIKRU.CO</p>"
+            "icon_name": "check",
+            "title": "Free Returns",
+            "text": "<p>within 30 days of purchase</p>"
           }
         },
-        "text_E9N9Dm": {
+        "text_JpLi79": {
           "type": "text",
           "settings": {
-            "icon_name": "bell",
-            "title": "SHOPIFY THEMES",
-            "text": "<p>SHOP AT WWW.TRIKRU.CO</p>"
+            "icon_name": "eco-friendly",
+            "title": "1% Donated",
+            "text": "<p>to forest conservation</p>"
           }
         }
       },
       "block_order": [
-        "text_UiJmAA",
-        "text_6PaPQF",
-        "text_E9N9Dm"
+        "text_d9ggqM",
+        "text_w6aWng",
+        "text_JpLi79"
       ],
       "settings": {
         "heading": "",
@@ -732,21 +732,21 @@
         "icons_width": 20,
         "show_vertical_borders": true,
         "show_horizontal_borders": true,
-        "heading_size": 100,
-        "text_size": 90,
-        "bg_color": "#000000",
-        "text_color": "#ffffff",
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333",
         "box_color": "",
-        "color_border": "#000000",
-        "button_text": "SHOP AT WWW.TRIKRU.CO",
-        "button_link": "https://WWW.TRIKRU.CO",
-        "button_color": "btn--primary",
+        "color_border": "#333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
         "button_style": "btn--solid",
         "button_size": "btn--small",
         "layout_mobile": "grid",
         "width": "wrapper",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     }
   },
@@ -764,6 +764,6 @@
     "section-look-0",
     "section-banner-text-columns-0",
     "section-newsletter-0",
-    "section-icons-row-0"
+    "section_icons_row_jdfMxj"
   ]
 }
