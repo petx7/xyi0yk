@@ -16,13 +16,13 @@
         "enable_mobile_height": false,
         "mobile_height": "six-fifty-height-mobile",
         "text_position": "middle-center",
-        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/03d41f95ce22449f8a68322cc90eebf2.mp4",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/210b627aebf54cbf843b4edf7ebecd00.mp4",
         "video_link": "",
         "overlay_opacity": 10,
         "text_color": "text-light",
         "title": "",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "text": "",
         "heading_size": 100,
@@ -35,40 +35,6 @@
     },
     "section-slideshow-0": {
       "type": "section-slideshow",
-      "blocks": {
-        "section-slideshow-0-block-1": {
-          "type": "image",
-          "settings": {
-            "overlay_opacity": 10,
-            "text_width": "narrow",
-            "text_position": "left",
-            "text_alignment": "text-left",
-            "text_color": "text-light",
-            "subheading": "Introducing",
-            "title": "<p>THEME BY <em>TRIKRU </em></p>",
-            "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#fe0000",
-            "highlight_text_color": "#fe0000",
-            "text": "This theme is made by TRIKRU",
-            "stacked_button": true,
-            "button_1_text": "VIEW MORE",
-            "button_1_link": "shopify://collections/all",
-            "button_1_color": "btn--secondary",
-            "button_1_style": "btn--solid",
-            "button_1_size": "btn--large",
-            "button_2_text": "VIEW MORE",
-            "button_2_link": "",
-            "button_2_color": "btn--primary",
-            "button_2_style": "btn--solid",
-            "button_2_size": "btn--large",
-            "video_text": "",
-            "video_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "section-slideshow-0-block-1"
-      ],
       "settings": {
         "slide_height": "seven-fifty-height",
         "enable_mobile_height": true,
