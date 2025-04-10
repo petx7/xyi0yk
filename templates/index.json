@@ -51,143 +51,13 @@
         "heading_size": 160
       }
     },
-    "section-text-0": {
-      "type": "section-text",
-      "blocks": {
-        "section-text-0-block-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "<p>TRIKRU.CO</p>",
-            "size": 100,
-            "margin_bottom": 16
-          }
-        },
-        "section-text-0-block-1": {
-          "type": "heading",
-          "settings": {
-            "text": "<p>Shop by TRIKRU.CO</p>",
-            "size": 120,
-            "heading_highlight_type": "italics",
-            "highlight_color": "#000000",
-            "highlight_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "section-text-0-block-0",
-        "section-text-0-block-1"
-      ],
-      "settings": {
-        "text_position": "center",
-        "bg_color_secondary": false,
-        "text_color": "text-dark",
-        "width": "wrapper--narrow",
-        "padding_top": 50,
-        "padding_bottom": 0
-      }
-    },
-    "section-grid-0": {
-      "type": "section-grid",
-      "blocks": {
-        "section-grid-0-block-0": {
-          "type": "image",
-          "settings": {
-            "width": "25",
-            "overlay_opacity": 30,
-            "text_position": "bottom-left",
-            "subheading": "",
-            "title": "Trending",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-dark"
-          }
-        },
-        "section-grid-0-block-1": {
-          "type": "image",
-          "settings": {
-            "width": "25",
-            "overlay_opacity": 30,
-            "text_position": "bottom-left",
-            "subheading": "",
-            "title": "Clearance",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-dark"
-          }
-        },
-        "section-grid-0-block-2": {
-          "type": "image",
-          "settings": {
-            "width": "25",
-            "overlay_opacity": 10,
-            "text_position": "bottom-left",
-            "subheading": "",
-            "title": "Sale",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-dark"
-          }
-        },
-        "section-grid-0-block-3": {
-          "type": "image",
-          "settings": {
-            "width": "25",
-            "overlay_opacity": 10,
-            "text_position": "bottom-left",
-            "subheading": "",
-            "title": "New",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-dark"
-          }
-        }
-      },
-      "block_order": [
-        "section-grid-0-block-0",
-        "section-grid-0-block-1",
-        "section-grid-0-block-2",
-        "section-grid-0-block-3"
-      ],
-      "settings": {
-        "desktop_height": "five-fifty-height",
-        "enable_mobile_height": true,
-        "mobile_height": "three-fifty-height-mobile",
-        "heading_size": 110,
-        "button_1_color": "btn--black",
-        "button_1_style": "btn--outline",
-        "button_1_size": "btn--small",
-        "button_2_color": "btn--black",
-        "button_2_style": "btn--text",
-        "button_2_size": "btn--small",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": false,
-        "columns_mobile": "2",
-        "overlay_text": false,
-        "width": "wrapper--full-padded",
-        "add_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 50
-      }
-    },
     "section-marquee-0": {
       "type": "section-marquee",
       "blocks": {
         "section-marquee-0-block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>USE THIS TO PROMOTE <em><strong>WWW.TRIKRU.CO</strong></em></p>",
+            "text": "<p>USE THIS TO PROMOTE <em><strong>Bloom Beauty</strong></em></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -223,79 +93,6 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "section-promotion-row-0": {
-      "type": "section-promotion-row",
-      "blocks": {
-        "section-promotion-row-0-block-1": {
-          "type": "column",
-          "settings": {
-            "subheading": "<p>IN-STORE AND ONLINE</p>",
-            "subheading_size": 75,
-            "heading": "<p>20% OFF</p>",
-            "heading_highlight_type": "italics",
-            "highlight_color": "#ffffff",
-            "highlight_text_color": "#000000",
-            "heading_size": 295,
-            "description": "Share details about the promotion",
-            "description_size": 100,
-            "disclaimer": "*Use this text for a disclaimer.",
-            "disclaimer_size": 75,
-            "button_text": "",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--solid",
-            "button_size": "btn--small",
-            "bg_color": "",
-            "gradient_background": "",
-            "text_color": "#ffffff",
-            "overlay_opacity": 10
-          }
-        },
-        "section-promotion-row-0-block-2": {
-          "type": "column",
-          "settings": {
-            "subheading": "<p>For a limited time</p>",
-            "subheading_size": 75,
-            "heading": "<p><em>FREE PRODUCT</em></p>",
-            "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#ffffff",
-            "highlight_text_color": "#ffffff",
-            "heading_size": 160,
-            "description": "With every purchase over $99",
-            "description_size": 80,
-            "disclaimer": "",
-            "disclaimer_size": 75,
-            "button_text": "",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--solid",
-            "button_size": "btn--small",
-            "bg_color": "",
-            "gradient_background": "",
-            "text_color": "#ffffff",
-            "overlay_opacity": 50
-          }
-        }
-      },
-      "block_order": [
-        "section-promotion-row-0-block-1",
-        "section-promotion-row-0-block-2"
-      ],
-      "settings": {
-        "layout": "1",
-        "count_up_enabled": true,
-        "count_up_duration": 100,
-        "height": "400",
-        "enable_mobile_height": true,
-        "mobile_height": "400",
-        "bg_color": "#000000",
-        "enable_slider_mobile": false,
-        "columns_mobile": "1",
-        "width": "wrapper--full-padded",
-        "padding_top": 20,
-        "padding_bottom": 20
       }
     },
     "section_marquee_Ug8e8y": {
@@ -614,66 +411,6 @@
         "padding_bottom": 60
       }
     },
-    "section-banner-text-columns-0": {
-      "type": "section-banner-text-columns",
-      "blocks": {
-        "section-banner-text-columns-0-block-0": {
-          "type": "column",
-          "settings": {
-            "overlay_opacity": 10,
-            "subheading": "SHOP AT WWW.TRIKRU.COM",
-            "heading": "SHOPIFY THEMES",
-            "text": "",
-            "button_text": "",
-            "button_link": ""
-          }
-        },
-        "section-banner-text-columns-0-block-1": {
-          "type": "column",
-          "settings": {
-            "overlay_opacity": 10,
-            "subheading": "SHOP AT WWW.TRIKRU.COM",
-            "heading": "SHOPIFY THEMES",
-            "text": "",
-            "button_text": "",
-            "button_link": ""
-          }
-        },
-        "section-banner-text-columns-0-block-2": {
-          "type": "column",
-          "settings": {
-            "overlay_opacity": 10,
-            "subheading": "SHOP AT WWW.TRIKRU.COM",
-            "heading": "SHOPIFY THEMES",
-            "text": "",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "section-banner-text-columns-0-block-0",
-        "section-banner-text-columns-0-block-1",
-        "section-banner-text-columns-0-block-2"
-      ],
-      "settings": {
-        "appearance": "columns",
-        "content_alignment": "center",
-        "text_alignment": "text-center",
-        "section_height": "five-fifty-height",
-        "enable_mobile_height": true,
-        "mobile_section_height": "five-fifty-height-mobile",
-        "text_color": "text-dark",
-        "button_color": "btn--white",
-        "button_style": "btn--text",
-        "button_size": "btn--small",
-        "show_single_image": false,
-        "heading_size": 100,
-        "width": "wrapper",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "section-newsletter-0": {
       "type": "section-newsletter",
       "settings": {
@@ -753,16 +490,12 @@
   "order": [
     "section_video_cUbzJm",
     "section-slideshow-0",
-    "section-text-0",
-    "section-grid-0",
     "section-marquee-0",
-    "section-promotion-row-0",
     "section_marquee_Ug8e8y",
     "section-sticky-image-cards-0",
     "section-marquee-2",
     "section-grid-1",
     "section-look-0",
-    "section-banner-text-columns-0",
     "section-newsletter-0",
     "section_icons_row_jdfMxj"
   ]
