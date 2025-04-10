@@ -51,78 +51,6 @@
         "heading_size": 160
       }
     },
-    "section-countdown-0": {
-      "type": "section-countdown",
-      "blocks": {
-        "section-countdown-0-block-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "<p>Countdown for drops</p>",
-            "size": 75
-          }
-        },
-        "section-countdown-0-block-1": {
-          "type": "heading",
-          "settings": {
-            "text": "<p>COUNT DOWN FOR DROPS</p>",
-            "size": 120,
-            "heading_highlight_type": "italics",
-            "highlight_color": "#d43747",
-            "highlight_text_color": "#000000"
-          }
-        },
-        "section-countdown-0-block-2": {
-          "type": "timer",
-          "settings": {
-            "end_date": "2024-12-31",
-            "end_time": "11:59",
-            "period": "am",
-            "end_message": "",
-            "size": 115,
-            "bg_color": "",
-            "bg_opacity": 100,
-            "text_color": "text-light"
-          }
-        },
-        "section-countdown-0-block-3": {
-          "type": "button",
-          "settings": {
-            "button_1_text": "Shop the sale",
-            "button_1_link": "shopify://collections/all",
-            "button_1_color": "btn--white",
-            "button_1_style": "btn--outline",
-            "button_1_size": "btn--large",
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_color": "btn--white",
-            "button_2_style": "btn--solid-border",
-            "button_2_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "section-countdown-0-block-0",
-        "section-countdown-0-block-1",
-        "section-countdown-0-block-2",
-        "section-countdown-0-block-3"
-      ],
-      "settings": {
-        "layout_style": "stacked",
-        "text_alignment": "center",
-        "height": "150",
-        "enable_mobile_height": true,
-        "mobile_height": "300",
-        "overlay_opacity": 10,
-        "enable_zoom_animation": true,
-        "bg_color": "#f4f3f1",
-        "gradient": "linear-gradient(310deg, rgba(255, 255, 255, 1) 11%, rgba(255, 255, 255, 1) 85%)",
-        "text_color": "text-light",
-        "text_width": "normal",
-        "width": "wrapper--full",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "section-text-0": {
       "type": "section-text",
       "blocks": {
@@ -412,64 +340,6 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "section-collection-0": {
-      "type": "section-collection",
-      "blocks": {
-        "section-collection-0-block-0": {
-          "type": "promo",
-          "disabled": true,
-          "settings": {
-            "position": 1,
-            "width": "half",
-            "title": "<p>Promotion title</p>",
-            "heading_highlight_type": "circle",
-            "highlight_color": "rgba(0,0,0,0)",
-            "highlight_text_color": "#000000",
-            "heading_size": 100,
-            "content": "Advertise a promotion or a sale",
-            "text_size": 100,
-            "text_color": "text-dark",
-            "text_position": "bottom-left",
-            "layout": "stacked",
-            "overlay_opacity": 10,
-            "bg_color": "#f7f7f7",
-            "button_text": "",
-            "button_link": "",
-            "button_color": "btn--white",
-            "button_style": "btn--solid-border",
-            "button_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "section-collection-0-block-0"
-      ],
-      "settings": {
-        "collection": "shopify-themes",
-        "products_layout": "carousel",
-        "number_of_products": 8,
-        "products_per_row_on_desktop": 4,
-        "columns_mobile": "2",
-        "text_alignment": "text-center",
-        "title": "<p>SHOPIFY THEMES</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000000",
-        "highlight_text_color": "rgba(0,0,0,0)",
-        "heading_size": 175,
-        "text": "<p>TRUKRU.CO FOR SHOPIFY THEMES</p>",
-        "text_size": 100,
-        "button_position": "bottom",
-        "button_text": "view all",
-        "button_color": "btn--primary",
-        "button_style": "btn--solid",
-        "button_size": "btn--large",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": true,
-        "width": "wrapper--full-padded",
-        "padding_top": 80,
-        "padding_bottom": 80
       }
     },
     "section-sticky-image-cards-0": {
@@ -883,13 +753,11 @@
   "order": [
     "section_video_cUbzJm",
     "section-slideshow-0",
-    "section-countdown-0",
     "section-text-0",
     "section-grid-0",
     "section-marquee-0",
     "section-promotion-row-0",
     "section_marquee_Ug8e8y",
-    "section-collection-0",
     "section-sticky-image-cards-0",
     "section-marquee-2",
     "section-grid-1",
