@@ -532,14 +532,14 @@
       "remaining_html": "Tylko {{ inventory }} sztuk осталось w magazynie",
       "remaining_no_count": "Pospiesz się! Niski stan magazynowy",
       "on_sale": "W promocji",
-      "save_badge_html": "Promocja {{ discount }}",
+      "save_badge_html": "Oszczędzasz {{ discount }}",
       "save_badge_up_to_html": "Oszczędzasz do {{ discount }}",
       "quick_view": "Szybki podgląd",
       "checkout": "Przejdź do kasy",
       "view_in_space": "Zobacz w swojej przestrzeni",
       "view_in_space_label": "Zobacz w swojej przestrzeni, ładuje element w oknie rzeczywistości rozszerzonej",
       "subscription": "Subskrypcja",
-      "save": "",
+      "save": "Oszczędzaj",
       "unit_price_label": "Cena jednostkowa",
       "popup_missing": "Wybierz stronę w ustawieniach bloku.",
       "popup_text_missing": "Nie dodano tekstu na wybranej stronie.",
@@ -590,13 +590,13 @@
   },
   "footer": {
     "socials": {
-      "title": " ",
+      "title": "Zobacz {{ shop_name }} na {{ social }}",
       "rss": "RSS"
     },
     "country": "Kraj",
     "language": "Język",
     "update": "Aktualizuj",
-    "powered_by": "  "
+    "powered_by": " "
   },
   "store_availability": {
     "general": {
@@ -621,11 +621,6 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
-    },
-    "checkout": {
-      "general": {
-        "autocomplete_powered_by_google": " "
-      }
     }
   }
 }
