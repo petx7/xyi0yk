@@ -15,14 +15,14 @@
         "subheading_nAVcXw": {
           "type": "subheading",
           "settings": {
-            "text": "<p>Welcome to</p>",
+            "text": "<p>Witamy w sklepie internetowym</p>",
             "size": 100
           }
         },
         "heading_YLTMP4": {
           "type": "heading",
           "settings": {
-            "text": "<p>Palo Alto</p>",
+            "text": "<p>magia wyobraźni</p>",
             "size": 180,
             "heading_highlight_type": "underline-hand-drawn",
             "highlight_color": "#000",
@@ -32,7 +32,7 @@
         "text_CMQqrH": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><strong>Odkryj naszą ofertę i zamów produkty, które sprawią, że poczujesz się wyjątkowo!</strong></p>",
             "size": 100
           }
         },
@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "stacked_button": false,
-            "button_1_text": "Shop All",
+            "button_1_text": "ZOBACZ WSZYSTKO",
             "button_1_link": "shopify://collections/all",
             "button_1_color": "btn--white",
             "button_1_style": "btn--solid-border",
@@ -191,6 +191,7 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/VERVE_ENERGIZING_VEG_SHAMPOO_250.jpg",
             "subheading": "Our latest obsessions",
             "title": "<p>We believe that fashion should be stylish, affordable and accessible to everyone.</p>",
             "heading_size": 160,
@@ -206,6 +207,7 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/RESET_PURIFYING_SCALP_VEG_TREATMENT_150_2.jpg",
             "subheading": "",
             "title": "<p>Sustainable trends you'll love! Our mission is to empower people through sustainable fashion.</p>",
             "heading_size": 160,
@@ -221,6 +223,7 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
+            "image": "shopify://shop_images/VERVE_ENERGIZING_VEG_SCALP_LOTION_6x7ml_2-1.png",
             "subheading": "Summer 2024",
             "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
             "heading_size": 160,
