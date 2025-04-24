@@ -362,10 +362,10 @@
             "image": "shopify://shop_images/RESET_PURIFYING_SCALP_VEG_TREATMENT_150_2.jpg",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
-            "subheading": "Introducing",
-            "title": "New Arrivals",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
+            "subheading": "Enzymatyczny peeling do skóry głowy.",
+            "title": " Reset – Purifying scalp veg treatment",
+            "text": "",
+            "button_1_text": "Kup teraz",
             "button_1_link": "",
             "button_2_text": "",
             "button_2_link": "",
@@ -422,24 +422,24 @@
           "type": "text",
           "settings": {
             "icon_name": "truck",
-            "title": "Free Shipping",
-            "text": "<p>on all order over $99</p>"
+            "title": "DARMOWA DOSTAWA",
+            "text": "<p>dla zamówień powyżej 299 zł</p>"
           }
         },
         "text_w6aWng": {
           "type": "text",
           "settings": {
             "icon_name": "check",
-            "title": "Free Returns",
-            "text": "<p>within 30 days of purchase</p>"
+            "title": "ZWROT DO 14 DNI",
+            "text": "<p>bez podania przyczyny</p>"
           }
         },
         "text_JpLi79": {
           "type": "text",
           "settings": {
-            "icon_name": "eco-friendly",
-            "title": "1% Donated",
-            "text": "<p>to forest conservation</p>"
+            "icon_name": "credit-card",
+            "title": "BEZPIECZNE PŁATNOŚCI",
+            "text": "<p>szyfrowane i w 100% chronione</p>"
           }
         }
       },
