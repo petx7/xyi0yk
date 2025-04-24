@@ -472,6 +472,98 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_locations_b9CJPC": {
+      "type": "section-locations",
+      "blocks": {
+        "locations_earFpn": {
+          "type": "locations",
+          "settings": {
+            "title": "566 Emerson Street Palo Alto, California",
+            "working_time": "<p>Mon - Fri: 8am - 5pm</p><p>Sat: Closed</p><p>Sun: Closed</p>"
+          }
+        }
+      },
+      "block_order": [
+        "locations_earFpn"
+      ],
+      "name": "Locations",
+      "settings": {
+        "subheading": "Our stores",
+        "title": "Locations & hours",
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_accordions_EEJpDm": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_HaXzzz": {
+          "type": "text",
+          "settings": {
+            "title": "Jakie są koszty dostawy?",
+            "text": "<p>Dla zamówień powyżej 299 zł oferujemy darmową dostawę. Dla mniejszych zamówień koszt dostawy jest wyświetlany podczas składania zamówienia.</p>"
+          }
+        },
+        "text_nJ6NzR": {
+          "type": "text",
+          "settings": {
+            "title": "Czy mogę zwrócić zamówiony produkt?",
+            "text": "<p>Tak, masz 14 dni na zwrot bez podania przyczyny. Produkt musi być nieużywany i w oryginalnym opakowaniu.</p>"
+          }
+        },
+        "text_4zNrgm": {
+          "type": "text",
+          "settings": {
+            "title": "Jak długo trwa dostawa?",
+            "text": "<p>Czas dostawy wynosi zazwyczaj od 2 do 5 dni roboczych na terenie Polski.</p>"
+          }
+        },
+        "text_KKcDFy": {
+          "type": "text",
+          "settings": {
+            "title": "Co jeśli otrzymałam/em uszkodzony produkt?",
+            "text": "<p>Przykro nam! Skontaktuj się z nami jak najszybciej – wyślij zdjęcia uszkodzonego produktu, a my zajmiemy się wymianą lub zwrotem pieniędzy.</p>"
+          }
+        },
+        "text_rewtX7": {
+          "type": "text",
+          "settings": {
+            "title": "Czy wasze produkty są profesjonalne?",
+            "text": "<p>Tak, oferujemy produkty, których używamy również w naszym salonie kosmetycznym – są sprawdzone i najwyższej jakości.</p>"
+          }
+        },
+        "text_FebA6F": {
+          "type": "text",
+          "settings": {
+            "title": "Czy mogę zmienić lub anulować zamówienie po jego złożeniu?",
+            "text": "<p>Skontaktuj się z nami jak najszybciej – jeśli zamówienie nie zostało jeszcze wysłane, możemy je zmodyfikować lub anulować.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_HaXzzz",
+        "text_nJ6NzR",
+        "text_4zNrgm",
+        "text_KKcDFy",
+        "text_rewtX7",
+        "text_FebA6F"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Najczęściej zadawane pytania",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -483,6 +575,8 @@
     "section-marquee-2",
     "section-grid-1",
     "section-newsletter-0",
-    "section_icons_row_jdfMxj"
+    "section_icons_row_jdfMxj",
+    "section_locations_b9CJPC",
+    "section_accordions_EEJpDm"
   ]
 }
