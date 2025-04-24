@@ -39,15 +39,6 @@
             "column_width": "15"
           }
         },
-        "footer-block-3": {
-          "type": "link",
-          "settings": {
-            "alignment": "text-left",
-            "menu": "footer",
-            "title": "Helpful Links",
-            "column_width": "15"
-          }
-        },
         "footer-block-4": {
           "type": "newsletter",
           "settings": {
@@ -61,14 +52,23 @@
             "button_style": "btn--solid",
             "column_width": "30"
           }
+        },
+        "logo_full_pULefE": {
+          "type": "logo_full",
+          "settings": {
+            "alignment": "text-center",
+            "image": "shopify://shop_images/magia2.png",
+            "logo_width": 80,
+            "padding_top": 40
+          }
         }
       },
       "block_order": [
         "footer-block-0",
         "footer-block-1",
         "footer-block-2",
-        "footer-block-3",
-        "footer-block-4"
+        "footer-block-4",
+        "logo_full_pULefE"
       ],
       "settings": {
         "show_footer_wave": false,
