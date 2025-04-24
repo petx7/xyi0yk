@@ -471,11 +471,28 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_image_YAhPGF": {
+      "type": "section-image",
+      "name": "Image",
+      "settings": {
+        "image": "shopify://shop_images/PUREST-Still-life-0079_3000px_2-scaled-1.jpg",
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
     "section_banner_image_LLtAEY",
     "section-slideshow-0",
+    "section_image_YAhPGF",
     "section-marquee-0",
     "section-sticky-image-cards-0",
     "section_marquee_Ug8e8y",
