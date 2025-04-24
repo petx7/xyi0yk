@@ -254,8 +254,8 @@
           "settings": {
             "image": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
             "image_mobile": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
-            "subheading": "Ochronny spray do włosów farbowanych.",
-            "title": "<h2>Glaze – color saver veg hair spray</h2>",
+            "subheading": "",
+            "title": "<p>Odżywka bez spłukiwania ułatwiająca rozczesywanie włosów 150ml INSIGHT DAILY USE</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
@@ -271,8 +271,8 @@
           "settings": {
             "image": "shopify://shop_images/szampon-do-wlosow-blonde-z-pigmentem-insight-blonde-400.jpg",
             "image_mobile": "shopify://shop_images/szampon-do-wlosow-blonde-z-pigmentem-insight-blonde-400.jpg",
-            "subheading": "Aktywny krem przeciw puszeniu się włosów.",
-            "title": "<h2>Satin anti – frizz veg hair cream</h2>",
+            "subheading": "",
+            "title": "<p>Szampon zapobiegający puszeniu się włosów Anti-frizz 400ml INSIGHT</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
