@@ -103,7 +103,7 @@
         "section-marquee-0-block-2": {
           "type": "text",
           "settings": {
-            "text": "<p>USE THIS TO PROMOTE <em><strong>Bloom Beauty</strong></em></p>",
+            "text": "<p> <em><strong>Magia W</strong></em><strong>yobraźni</strong></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -141,13 +141,85 @@
         "padding_bottom": 0
       }
     },
+    "section-sticky-image-cards-0": {
+      "type": "section-sticky-image-cards",
+      "blocks": {
+        "section-sticky-image-cards-0-block-0": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/2025-04-24_10.47.02_AM.png",
+            "image_mobile": "shopify://shop_images/2025-04-24_10.47.02_AM.png",
+            "subheading": "Ochronny spray do włosów farbowanych.",
+            "title": "<h2>Glaze – color saver veg hair spray</h2>",
+            "heading_size": 160,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Kup teraz",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        },
+        "section-sticky-image-cards-0-block-1": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/2025-04-24_10.46.06_AM.png",
+            "image_mobile": "shopify://shop_images/2025-04-24_10.46.06_AM.png",
+            "subheading": "Aktywny krem przeciw puszeniu się włosów.",
+            "title": "<h2>Satin anti – frizz veg hair cream</h2>",
+            "heading_size": 160,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Kup teraz",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        },
+        "section-sticky-image-cards-0-block-2": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/2025-04-24_10.45.16_AM.png",
+            "subheading": "Summer 2024",
+            "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
+            "heading_size": 160,
+            "truncate_text": true,
+            "heading_length": 15,
+            "button_text": "Kup teraz",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "section-sticky-image-cards-0-block-0",
+        "section-sticky-image-cards-0-block-1",
+        "section-sticky-image-cards-0-block-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "image_position": "",
+        "aspect_ratio_desktop": 1.5,
+        "aspect_ratio_mobile": 1,
+        "layout_mobile": "sticky",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff",
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "section_marquee_Ug8e8y": {
       "type": "section-marquee",
       "blocks": {
         "text_WrFRTM": {
           "type": "text",
           "settings": {
-            "text": "<p>USE THIS TO PROMOTE <em><strong>WWW.TRIKRU.CO</strong></em></p>",
+            "text": "<p> <em><strong>Magia W</strong></em><strong>yobraźni</strong></p>",
             "text_color": "",
             "heading_highlight_type": "highlight-color",
             "highlight_color": "#ff001b",
@@ -183,76 +255,6 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "section-sticky-image-cards-0": {
-      "type": "section-sticky-image-cards",
-      "blocks": {
-        "section-sticky-image-cards-0-block-0": {
-          "type": "card",
-          "settings": {
-            "image": "shopify://shop_images/VERVE_ENERGIZING_VEG_SHAMPOO_250.jpg",
-            "subheading": "Our latest obsessions",
-            "title": "<p>We believe that fashion should be stylish, affordable and accessible to everyone.</p>",
-            "heading_size": 160,
-            "truncate_text": true,
-            "heading_length": 15,
-            "button_text": "Shop now",
-            "button_link": "",
-            "button_color": "btn--primary",
-            "button_style": "btn--solid",
-            "button_size": "btn--small"
-          }
-        },
-        "section-sticky-image-cards-0-block-1": {
-          "type": "card",
-          "settings": {
-            "image": "shopify://shop_images/RESET_PURIFYING_SCALP_VEG_TREATMENT_150_2.jpg",
-            "subheading": "",
-            "title": "<p>Sustainable trends you'll love! Our mission is to empower people through sustainable fashion.</p>",
-            "heading_size": 160,
-            "truncate_text": true,
-            "heading_length": 15,
-            "button_text": "Learn more",
-            "button_link": "",
-            "button_color": "btn--primary",
-            "button_style": "btn--solid",
-            "button_size": "btn--small"
-          }
-        },
-        "section-sticky-image-cards-0-block-2": {
-          "type": "card",
-          "settings": {
-            "image": "shopify://shop_images/VERVE_ENERGIZING_VEG_SCALP_LOTION_6x7ml_2-1.png",
-            "subheading": "Summer 2024",
-            "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
-            "heading_size": 160,
-            "truncate_text": true,
-            "heading_length": 15,
-            "button_text": "View lookbook",
-            "button_link": "",
-            "button_color": "btn--primary",
-            "button_style": "btn--solid",
-            "button_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "section-sticky-image-cards-0-block-0",
-        "section-sticky-image-cards-0-block-1",
-        "section-sticky-image-cards-0-block-2"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "image_position": "",
-        "aspect_ratio_desktop": 1.5,
-        "aspect_ratio_mobile": 1,
-        "layout_mobile": "sticky",
-        "text_color": "text-dark",
-        "bg_color": "#ffffff",
-        "width": "wrapper--full-padded",
-        "padding_top": 100,
-        "padding_bottom": 100
       }
     },
     "section-marquee-2": {
@@ -338,6 +340,7 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/VERVE_ENERGIZING_VEG_SHAMPOO_250.jpg",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "Introducing",
@@ -354,6 +357,7 @@
           "type": "image",
           "settings": {
             "width": "50",
+            "image": "shopify://shop_images/RESET_PURIFYING_SCALP_VEG_TREATMENT_150_2.jpg",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "Introducing",
@@ -472,8 +476,8 @@
     "section_banner_image_LLtAEY",
     "section-slideshow-0",
     "section-marquee-0",
-    "section_marquee_Ug8e8y",
     "section-sticky-image-cards-0",
+    "section_marquee_Ug8e8y",
     "section-marquee-2",
     "section-grid-1",
     "section-newsletter-0",
