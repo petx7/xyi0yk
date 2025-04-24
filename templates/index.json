@@ -200,7 +200,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/odzywka-nawilzajaca-do-wlosow-bez-splukiwania-insight-daily-use-150ml.png",
+            "heading": "Odżywki bez spłukiwania",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -210,27 +211,8 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_RQKJGP": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_dR8B4C": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "heading": "",
+            "custom_collection_image": "shopify://shop_images/serum-olejowe-do-wlosow-kreconych-insight-elasti-curl-100ml.png",
+            "heading": "Sera i olejki do włosów",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
@@ -241,9 +223,7 @@
         "collection_qmVemB",
         "collection_LCBgHQ",
         "collection_idzNfh",
-        "collection_4yyHq3",
-        "collection_RQKJGP",
-        "collection_dR8B4C"
+        "collection_4yyHq3"
       ],
       "name": "Collection list",
       "settings": {
