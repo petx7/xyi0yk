@@ -65,6 +65,7 @@
         "enable_mobile_height": true,
         "mobile_height": "four-fifty-height-mobile",
         "image": "shopify://shop_images/pexels-shkrabaanthony-7507071.jpg",
+        "image_mobile": "shopify://shop_images/pexels-shkrabaanthony-7507071.jpg",
         "overlay_opacity": 10,
         "transition": "zoom-out",
         "enable_zoom_animation": true,
