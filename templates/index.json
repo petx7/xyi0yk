@@ -229,7 +229,7 @@
         "text_alignment": "text-center",
         "title": "<p>Best Sellers Szampony</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 100,
         "text": "",
@@ -252,8 +252,8 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/2025-04-24_10.47.02_AM.png",
-            "image_mobile": "shopify://shop_images/2025-04-24_10.47.02_AM.png",
+            "image": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
+            "image_mobile": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
             "subheading": "Ochronny spray do włosów farbowanych.",
             "title": "<h2>Glaze – color saver veg hair spray</h2>",
             "heading_size": 160,
@@ -269,8 +269,8 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/2025-04-24_10.46.06_AM.png",
-            "image_mobile": "shopify://shop_images/2025-04-24_10.46.06_AM.png",
+            "image": "shopify://shop_images/szampon-do-wlosow-blonde-z-pigmentem-insight-blonde-400.jpg",
+            "image_mobile": "shopify://shop_images/szampon-do-wlosow-blonde-z-pigmentem-insight-blonde-400.jpg",
             "subheading": "Aktywny krem przeciw puszeniu się włosów.",
             "title": "<h2>Satin anti – frizz veg hair cream</h2>",
             "heading_size": 160,
