@@ -25,7 +25,7 @@
             "text": "<p>magia wyobraźni</p>",
             "size": 180,
             "heading_highlight_type": "underline-hand-drawn",
-            "highlight_color": "#000",
+            "highlight_color": "#000000",
             "highlight_text_color": ""
           }
         },
@@ -254,82 +254,6 @@
         "bg_color": "#ffffff",
         "gradient": "",
         "color": "#000000",
-        "border_color": "#000000",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "section-marquee-2": {
-      "type": "section-marquee",
-      "blocks": {
-        "section-marquee-2-block-0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>NEW SHOPIFY THEME BY TRIKRU.CO</p>",
-            "text_color": "",
-            "heading_highlight_type": "circle",
-            "highlight_color": "#d43747",
-            "highlight_text_color": "#000000",
-            "icon_name": "none",
-            "icon_color": "",
-            "icon_width": 25,
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        },
-        "section-marquee-2-block-1": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image_width": 160
-          }
-        },
-        "section-marquee-2-block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>shop your shopify theme at www.trikru.co</p>",
-            "text_color": "",
-            "heading_highlight_type": "circle",
-            "highlight_color": "#d43747",
-            "highlight_text_color": "#000000",
-            "icon_name": "none",
-            "icon_color": "",
-            "icon_width": 25,
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        },
-        "section-marquee-2-block-3": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image_width": 160
-          }
-        }
-      },
-      "block_order": [
-        "section-marquee-2-block-0",
-        "section-marquee-2-block-1",
-        "section-marquee-2-block-2",
-        "section-marquee-2-block-3"
-      ],
-      "settings": {
-        "layout": "parallax",
-        "show_top_border": true,
-        "show_bottom_border": true,
-        "padding": 5,
-        "marquee_speed": 100,
-        "direction": "ticker-ltr",
-        "slider_speed": 7,
-        "show_arrows": false,
-        "text_caps": false,
-        "type_style": "subheading-text",
-        "text_size": 200,
-        "letter_spacing": 0,
-        "message_spacing": 20,
-        "bg_color": "#ffffff",
-        "gradient": "",
-        "color": "#545454",
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
@@ -665,7 +589,6 @@
     "section-marquee-0",
     "section-sticky-image-cards-0",
     "section_marquee_Ug8e8y",
-    "section-marquee-2",
     "section-grid-1",
     "section-newsletter-0",
     "section_icons_row_jdfMxj",
