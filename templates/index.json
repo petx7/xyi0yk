@@ -397,29 +397,6 @@
         "padding_bottom": 60
       }
     },
-    "section_locations_b9CJPC": {
-      "type": "section-locations",
-      "blocks": {
-        "locations_earFpn": {
-          "type": "locations",
-          "settings": {
-            "title": "566 Emerson Street Palo Alto, California",
-            "working_time": "<p>Mon - Fri: 8am - 5pm</p><p>Sat: Closed</p><p>Sun: Closed</p>"
-          }
-        }
-      },
-      "block_order": [
-        "locations_earFpn"
-      ],
-      "name": "Locations",
-      "settings": {
-        "subheading": "Our stores",
-        "title": "Locations & hours",
-        "bg_color_secondary": false,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section_accordions_EEJpDm": {
       "type": "section-accordions",
       "blocks": {
@@ -488,6 +465,58 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_product_m6VFfX": {
+      "type": "section-product",
+      "blocks": {
+        "title_wVXWED": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "title_size": 100,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "description_nHqqPq": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "form_bjqthV": {
+          "type": "form",
+          "settings": {
+            "info_page": "",
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title_wVXWED",
+        "description_nHqqPq",
+        "form_bjqthV"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "product": "glaze-color-saver-veg-hair-spray",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "hide_product_thumbnails": true,
+        "product_image_aspect_ratio": false,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -499,7 +528,7 @@
     "section-grid-1",
     "section-newsletter-0",
     "section_icons_row_jdfMxj",
-    "section_locations_b9CJPC",
-    "section_accordions_EEJpDm"
+    "section_accordions_EEJpDm",
+    "section_product_m6VFfX"
   ]
 }
