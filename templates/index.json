@@ -159,7 +159,7 @@
         "collection_LCBgHQ": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "odzywki",
             "custom_collection_image": "shopify://shop_images/odzywka-do-suchych-wlosow-insight-dry-hair-350ml.png",
             "heading": "Odżywki",
             "block_text_color": "",
@@ -170,7 +170,7 @@
         "collection_idzNfh": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "odzywka-bez-splukiwania",
             "custom_collection_image": "shopify://shop_images/odzywka-nawilzajaca-do-wlosow-bez-splukiwania-insight-daily-use-150ml.png",
             "heading": "Odżywki bez spłukiwania",
             "block_text_color": "",
