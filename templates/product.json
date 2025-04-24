@@ -98,175 +98,20 @@
         "padding_bottom": 60
       }
     },
-    "overlapping-images-0": {
-      "type": "section-overlapping-images",
-      "settings": {
-        "text_position": "left",
-        "text_alignment": "left",
-        "images_width": 750,
-        "images_offset": 60,
-        "image_link_1": "",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "title": "<p>SHOPIFY THEME BY TRIKRU</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#fe0000",
-        "highlight_text_color": "",
-        "description": "<p>VIEW MORE THEMES AT OUT WEBSITE WWW.TRIKRU.CO</p>",
-        "heading_size": 100,
-        "button_text": "VIEW MORE",
-        "button_link": "https://WWW.TRIKRU.CO",
-        "button_color": "btn--white",
-        "button_style": "btn--solid",
-        "button_size": "btn--small",
-        "video_text": "",
-        "video_link": "",
-        "bg_color_secondary": false,
-        "gradient": "",
-        "animation": "horizontal",
-        "animation_intensity": 50,
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
-      "type": "section-columns",
-      "blocks": {
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
-          "type": "text_block",
-          "settings": {
-            "title": "SHOPIFY THEME BY TRIKRU",
-            "text": "<p>SHOP MORE SHOPIFY THEMES ON WWW.TRIKRU.CO </p>",
-            "button_text": "BUY THEME",
-            "button_link": "https://WWW.TRIKRU.CO",
-            "button_color": "btn--white",
-            "button_style": "btn--solid",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        },
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
-          "type": "text_block",
-          "settings": {
-            "title": "SHOPIFY THEME BY TRIKRU",
-            "text": "<p>SHOP MORE SHOPIFY THEMES ON WWW.TRIKRU.CO </p>",
-            "button_text": "BUY THEME",
-            "button_link": "https://WWW.TRIKRU.CO",
-            "button_color": "btn--white",
-            "button_style": "btn--solid",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        },
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
-          "type": "text_block",
-          "settings": {
-            "title": "SHOPIFY THEME BY TRIKRU",
-            "text": "<p>SHOP MORE SHOPIFY THEMES ON WWW.TRIKRU.CO </p>",
-            "button_text": "BUY THEME",
-            "button_link": "https://WWW.TRIKRU.CO",
-            "button_color": "btn--white",
-            "button_style": "btn--solid",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        }
-      },
-      "block_order": [
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
-        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "text-left",
-        "columns": 3,
-        "columns_mobile": "1",
-        "show_images": true,
-        "show_borders": false,
-        "equalize_height": true,
-        "desktop_aspect_ratio": 0.8,
-        "mobile_aspect_ratio": 0.8,
-        "heading_size": 120,
-        "text_size": 100,
-        "bg_color_secondary": false,
-        "color_borders": "#000000",
-        "layout_mobile": "carousel",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
-    "tabs": {
-      "type": "section-accordions",
-      "blocks": {
-        "acordion-0": {
-          "type": "text",
-          "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
-          }
-        },
-        "text_EpLfq6": {
-          "type": "text",
-          "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
-          }
-        },
-        "text_gyjEqa": {
-          "type": "text",
-          "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
-          }
-        },
-        "text_n4xnDG": {
-          "type": "text",
-          "settings": {
-            "title": "WHERE TO BUY SHOPIFY THEME",
-            "text": "<p>SHOP MORE SHOPIFY THEMES AT WWW.TRIKRU.CO</p>"
-          }
-        }
-      },
-      "block_order": [
-        "acordion-0",
-        "text_EpLfq6",
-        "text_gyjEqa",
-        "text_n4xnDG"
-      ],
-      "settings": {
-        "layout": "two-columns",
-        "show_accordion_divider": false,
-        "title": "WHERE TO BUY SHOPIFY THEME",
-        "subheading": "WWW.TRIKRU.CO",
-        "text": "<p>BUILT BY TRIKRU</p>",
-        "tabs_bg_color": "#fe0000",
-        "bg_color_secondary": false,
-        "text_color": "text-light",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "related": {
       "type": "related-products",
       "blocks": {
         "related": {
           "type": "related",
           "settings": {
-            "title": "You May Also Like",
+            "title": "Może Ci się spodobać",
             "product_recommendations_limit": 4
           }
         },
         "recent": {
           "type": "recent",
           "settings": {
-            "title": "Recently viewed",
+            "title": "Ostatnio oglądane",
             "product_recently_limit": 4
           }
         }
@@ -289,9 +134,6 @@
   },
   "order": [
     "main",
-    "overlapping-images-0",
-    "38ff978b-66eb-4318-9ce0-94db8ff86311",
-    "tabs",
     "related"
   ]
 }
