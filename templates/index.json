@@ -508,12 +508,6 @@
             "padding_bottom": 20
           }
         },
-        "description_nHqqPq": {
-          "type": "description",
-          "settings": {
-            "padding_bottom": 20
-          }
-        },
         "form_bjqthV": {
           "type": "form",
           "settings": {
@@ -528,12 +522,11 @@
       },
       "block_order": [
         "title_wVXWED",
-        "description_nHqqPq",
         "form_bjqthV"
       ],
       "name": "Featured product",
       "settings": {
-        "product": "glaze-color-saver-veg-hair-spray",
+        "product": "szampon-zapobiegajacy-puszeniu-sie-wlosow-anti-frizz-400ml-insight",
         "product_sticky_enable": true,
         "image_layout": "carousel",
         "image_width": "standard",
