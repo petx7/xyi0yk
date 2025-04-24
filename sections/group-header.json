@@ -17,12 +17,12 @@
         "announcement-0": {
           "type": "text",
           "settings": {
-            "text": "<p>ANNOUNCE SOMETHING HERE</p>",
+            "text": "<p>Darmowa dostawa przy zamówieniach powyżej 299 zł</p>",
             "text_color": "",
             "heading_highlight_type": "circle",
             "highlight_color": "#d43747",
             "highlight_text_color": "#000000",
-            "icon_name": "none",
+            "icon_name": "truck",
             "icon_color": "",
             "icon_width": 20,
             "target_url_enabled": false,
@@ -124,7 +124,6 @@
         "sticky_header": true,
         "header_border": true,
         "link_hover_effect": "line",
-        "logo_not_home": "shopify://shop_images/Bloom_Beauty.png",
         "logo_max_width": 250,
         "main-menu": "main-menu",
         "main_menu_secondary": "",

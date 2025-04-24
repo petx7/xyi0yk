@@ -9,28 +9,74 @@
  */
 {
   "sections": {
-    "section_video_cUbzJm": {
-      "type": "section-video",
+    "section_banner_image_LLtAEY": {
+      "type": "section-banner-image",
+      "blocks": {
+        "subheading_nAVcXw": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Welcome to</p>",
+            "size": 100
+          }
+        },
+        "heading_YLTMP4": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Palo Alto</p>",
+            "size": 180,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": ""
+          }
+        },
+        "text_CMQqrH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.</p>",
+            "size": 100
+          }
+        },
+        "button_8BBn7Q": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_nAVcXw",
+        "heading_YLTMP4",
+        "text_CMQqrH",
+        "button_8BBn7Q"
+      ],
+      "name": "Banner image",
       "settings": {
-        "video_height": "six-fifty-height",
-        "enable_mobile_height": false,
-        "mobile_height": "six-fifty-height-mobile",
-        "text_position": "middle-center",
-        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/210b627aebf54cbf843b4edf7ebecd00.mp4",
-        "video_link": "",
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify://shop_images/pexels-shkrabaanthony-7507071.jpg",
         "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
         "text_color": "text-light",
-        "title": "",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000000",
-        "highlight_text_color": "",
-        "text": "",
-        "heading_size": 100,
-        "button_text": "",
-        "button_link": "",
-        "button_color": "btn--white",
-        "button_style": "btn--solid-border",
-        "button_size": "btn--small"
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "section-slideshow-0": {
@@ -343,74 +389,6 @@
         "padding_bottom": 100
       }
     },
-    "section-look-0": {
-      "type": "section-look",
-      "blocks": {
-        "section-look-0-block-0": {
-          "type": "product",
-          "settings": {
-            "product": "eyezy-ultimate-shopify-theme",
-            "position_x_desktop": 31,
-            "position_y_desktop": 41,
-            "position_x_mobile": 21,
-            "position_y_mobile": 42,
-            "info_bubbles_position_desktop": 55,
-            "info_bubbles_position_mobile": 5
-          }
-        },
-        "section-look-0-block-1": {
-          "type": "product",
-          "settings": {
-            "product": "plain-jane-v3-shopify-theme",
-            "position_x_desktop": 69,
-            "position_y_desktop": 46,
-            "position_x_mobile": 75,
-            "position_y_mobile": 45,
-            "info_bubbles_position_desktop": 5,
-            "info_bubbles_position_mobile": 30
-          }
-        },
-        "section-look-0-block-2": {
-          "type": "product",
-          "settings": {
-            "product": "trapicmotion-premium-shopify-theme",
-            "position_x_desktop": 43,
-            "position_y_desktop": 70,
-            "position_x_mobile": 39,
-            "position_y_mobile": 66,
-            "info_bubbles_position_desktop": 25,
-            "info_bubbles_position_mobile": 25
-          }
-        }
-      },
-      "block_order": [
-        "section-look-0-block-0",
-        "section-look-0-block-1",
-        "section-look-0-block-2"
-      ],
-      "settings": {
-        "products_on_row": 2,
-        "image_position": "is-reversed",
-        "enable_aspect_ratio": true,
-        "main_image_aspect_ratio": 1,
-        "title": "SHOP SHOPIFY THEMES",
-        "text": "<p>VIEW MORE AT WWW.TRIKRU.CO</p>",
-        "text_alignment": "text-left",
-        "show_hotspots": true,
-        "show_arrow": true,
-        "popup_heading": "Shop the Look",
-        "show_free_shipping_message": true,
-        "content_color": "text-light",
-        "hotspot_color": "#fe0000",
-        "bg_color": "#000000",
-        "gradient": "",
-        "hotspot_contents_text_color": "text-light",
-        "hotspot_contents_bg_color": "#fe0000",
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section-newsletter-0": {
       "type": "section-newsletter",
       "settings": {
@@ -472,9 +450,9 @@
         "heading_size": 120,
         "text_size": 100,
         "bg_color": "",
-        "text_color": "#333",
+        "text_color": "#333333",
         "box_color": "",
-        "color_border": "#333",
+        "color_border": "#333333",
         "button_text": "",
         "button_link": "",
         "button_color": "btn--black",
@@ -488,14 +466,13 @@
     }
   },
   "order": [
-    "section_video_cUbzJm",
+    "section_banner_image_LLtAEY",
     "section-slideshow-0",
     "section-marquee-0",
     "section_marquee_Ug8e8y",
     "section-sticky-image-cards-0",
     "section-marquee-2",
     "section-grid-1",
-    "section-look-0",
     "section-newsletter-0",
     "section_icons_row_jdfMxj"
   ]
