@@ -124,6 +124,7 @@
         "sticky_header": true,
         "header_border": true,
         "link_hover_effect": "line",
+        "logo_not_home": "shopify://shop_images/Zoo.png",
         "logo_max_width": 250,
         "main-menu": "main-menu",
         "main_menu_secondary": "",
