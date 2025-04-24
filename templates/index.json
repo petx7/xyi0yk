@@ -402,10 +402,10 @@
       "settings": {
         "flex_align": "align--middle-center",
         "text_color": "text-light",
-        "title": "JOIN THE VIP LIST",
-        "text": "<p>This demo site was made using WWW.TRIKRU.CO theme . We are not affiliated with the Sporty and Rich brand in any way. All logos, content, etc is being used for demonstration purposes only. Purchase this theme at www.trikru.co</p>",
+        "title": "DOŁĄCZ DO LISTY VIP",
+        "text": "<p>Zapisz się do naszego newslettera i bądź na bieżąco z nowościami, promocjami oraz wyjątkowymi ofertami dostępnymi tylko dla naszych subskrybentów.</p>",
         "extra_fields": "",
-        "button_text": "join the vip list",
+        "button_text": "DOŁĄCZ DO LISTY VIP",
         "bg_color": "#000000",
         "image_height": "two-fifty-height",
         "overlay_opacity": 70,
@@ -471,28 +471,11 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_image_YAhPGF": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "image": "shopify://shop_images/PUREST-Still-life-0079_3000px_2-scaled-1.jpg",
-        "height": "original-height",
-        "enable_mobile_height": false,
-        "mobile_height": "original-height-mobile",
-        "enable_stretch": true,
-        "image_position": "center",
-        "bg_color_secondary": false,
-        "width": "wrapper--full-padded",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
     "section_banner_image_LLtAEY",
     "section-slideshow-0",
-    "section_image_YAhPGF",
     "section-marquee-0",
     "section-sticky-image-cards-0",
     "section_marquee_Ug8e8y",
