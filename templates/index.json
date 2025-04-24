@@ -182,6 +182,7 @@
           "type": "card",
           "settings": {
             "image": "shopify://shop_images/2025-04-24_10.45.16_AM.png",
+            "image_mobile": "shopify://shop_images/2025-04-24_10.45.16_AM.png",
             "subheading": "Summer 2024",
             "title": "<p>Our latest lookbook has dropped and is ready to shop. Elevate your style now!</p>",
             "heading_size": 160,
