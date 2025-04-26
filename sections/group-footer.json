@@ -33,10 +33,10 @@
         "footer-block-2": {
           "type": "link",
           "settings": {
-            "alignment": "text-left",
+            "alignment": "text-center",
             "menu": "footer",
-            "title": "Shop",
-            "column_width": "15"
+            "title": "Informacje",
+            "column_width": "25"
           }
         },
         "footer-block-4": {
