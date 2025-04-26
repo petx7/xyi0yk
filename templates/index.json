@@ -198,11 +198,11 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Nasze Produkty",
+        "title": "Nasze Kolekcje",
         "heading_size": 100,
         "layout": "carousel",
         "alignment": "center",
-        "collections_per_row": 4,
+        "collections_per_row": 5,
         "columns_mobile": "2",
         "image_shape": "circle",
         "image_aspect_ratio": 1,
