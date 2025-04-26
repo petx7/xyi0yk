@@ -198,7 +198,7 @@
       ],
       "name": "Collection list",
       "settings": {
-        "title": "Produkty",
+        "title": "Nasze Produkty",
         "heading_size": 100,
         "layout": "carousel",
         "alignment": "center",
@@ -286,8 +286,8 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
-            "image_mobile": "shopify://shop_images/szampon-zapobiegajacy-puszeniu-sie-wlosow-insight-anti-frizz-400.jpg",
+            "image": "shopify://shop_images/2025-04-26_6.40.53_AM.png",
+            "image_mobile": "shopify://shop_images/2025-04-26_6.40.53_AM.png",
             "subheading": "",
             "title": "<p>Odżywka bez spłukiwania ułatwiająca rozczesywanie włosów 150ml INSIGHT DAILY USE</p>",
             "heading_size": 160,
