@@ -130,10 +130,70 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_icons_row_q3JFtg": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_ptXh6w": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "DARMOWA DOSTAWA",
+            "text": "<p>dla zamówień powyżej 299 zł</p>"
+          }
+        },
+        "text_mXHgLn": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "ZWROT DO 14 DNI",
+            "text": "<p>bez podania przyczyny</p>"
+          }
+        },
+        "text_im9JEL": {
+          "type": "text",
+          "settings": {
+            "icon_name": "credit-card",
+            "title": "BEZPIECZNE PŁATNOŚCI",
+            "text": "<p>szyfrowane i w 100% chronione</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ptXh6w",
+        "text_mXHgLn",
+        "text_im9JEL"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333",
+        "box_color": "",
+        "color_border": "#333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
     "main",
-    "related"
+    "related",
+    "section_icons_row_q3JFtg"
   ]
 }
