@@ -158,8 +158,8 @@
         "text_HXcR3M": {
           "type": "text",
           "settings": {
-            "title": "What shipping methods do you offer?",
-            "text": "<p>We use all major carriers, and local courier partners. Use the shipping estimator in the cart to check your shipping rates.</p>"
+            "title": "Czy mogę zmienić lub anulować zamówienie po jego złożeniu?",
+            "text": "<p>Skontaktuj się z nami jak najszybciej – jeśli zamówienie nie zostało jeszcze wysłane, możemy je zmodyfikować lub anulować.</p>"
           }
         }
       },
