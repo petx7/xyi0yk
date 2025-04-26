@@ -68,6 +68,7 @@
       "shopify-themes"
     ],
     "empty_cart_collection_text_color": "text-light",
+    "empty_cart_message": "Darmowa dostawa dla zamówień powyżej ||amount||.",
     "empty_cart_buttons": "main-menu",
     "free_shipping_limit": "299",
     "cart_custom_message_color": "text-dark",
