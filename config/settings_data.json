@@ -73,7 +73,7 @@
     "enable_accept_terms": false,
     "upsells_height": 100,
     "upsells_image_width": 30,
-    "upsells_bg_color": "#fe0000",
+    "upsells_bg_color": "#000000",
     "upsells_text_color": "#ffffff",
     "upsells_button_color": "btn--white",
     "upsells_button_style": "btn--solid",
@@ -121,14 +121,7 @@
     "checkout_accent_color": "#edb3f2",
     "checkout_button_color": "#fbcaff",
     "checkout_error_color": "#d02e2e",
-    "content_for_index": [],
-    "blocks": {
-      "18146506648094396618": {
-        "type": "shopify://apps/langshop/blocks/sdk/84899e01-2b29-42af-99d6-46d16daa2111",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Vibrant": {
