@@ -61,7 +61,7 @@
     "cart_type": "drawer",
     "cart_icon": "shopping_cart",
     "enable_cart_notes": true,
-    "enable_additional_buttons": true,
+    "enable_additional_buttons": false,
     "empty_cart_heading": "SHOPIFY THEMES AT WWW.TRIKRU.CO",
     "empty_cart_collection_list": [
       "brand-essentials",
