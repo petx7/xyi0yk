@@ -69,6 +69,7 @@
     ],
     "empty_cart_collection_text_color": "text-light",
     "empty_cart_buttons": "main-menu",
+    "free_shipping_limit": "299",
     "cart_custom_message_color": "text-dark",
     "enable_accept_terms": false,
     "upsells_height": 100,
