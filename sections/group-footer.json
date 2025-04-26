@@ -34,7 +34,7 @@
           "type": "link",
           "settings": {
             "alignment": "text-left",
-            "menu": "main-menu",
+            "menu": "footer",
             "title": "Shop",
             "column_width": "15"
           }
