@@ -149,7 +149,7 @@
           "type": "collection",
           "settings": {
             "collection": "szampony",
-            "custom_collection_image": "shopify://shop_images/szampon-do-wlosow-blonde-z-pigmentem-insight-blonde-400.jpg",
+            "custom_collection_image": "shopify://shop_images/2025-04-26_6.56.25_AM.png",
             "heading": "",
             "block_text_color": "",
             "bg_color": "",
@@ -160,7 +160,7 @@
           "type": "collection",
           "settings": {
             "collection": "odzywki",
-            "custom_collection_image": "shopify://shop_images/odzywka-do-suchych-wlosow-insight-dry-hair-350ml.png",
+            "custom_collection_image": "shopify://shop_images/2025-04-26_5.41.58_AM.png",
             "heading": "Odżywki",
             "block_text_color": "",
             "bg_color": "",
@@ -171,7 +171,7 @@
           "type": "collection",
           "settings": {
             "collection": "odzywka-bez-splukiwania",
-            "custom_collection_image": "shopify://shop_images/odzywka-nawilzajaca-do-wlosow-bez-splukiwania-insight-daily-use-150ml.png",
+            "custom_collection_image": "shopify://shop_images/SOLO_REPOWERING_Shampoo_opuntiaformen-HAIR.jpg",
             "heading": "Odżywki bez spłukiwania",
             "block_text_color": "",
             "bg_color": "",
@@ -182,7 +182,7 @@
           "type": "collection",
           "settings": {
             "collection": "sera-i-olejki-do-wlosow",
-            "custom_collection_image": "shopify://shop_images/serum-olejowe-do-wlosow-kreconych-insight-elasti-curl-100ml.png",
+            "custom_collection_image": "shopify://shop_images/SOLO_AntiYellow_opuntiaformen.jpg",
             "heading": "Sera i olejki do włosów",
             "block_text_color": "",
             "bg_color": "",
