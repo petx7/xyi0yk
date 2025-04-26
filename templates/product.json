@@ -131,6 +131,59 @@
         "padding_bottom": 60
       }
     },
+    "section_accordions_qeLDmT": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_DP4f3B": {
+          "type": "text",
+          "settings": {
+            "title": "Jakie są koszty dostawy?",
+            "text": "<p>Dla zamówień powyżej 299 zł oferujemy darmową dostawę. Dla mniejszych zamówień koszt dostawy jest wyświetlany podczas składania zamówienia.</p>"
+          }
+        },
+        "text_ihjRga": {
+          "type": "text",
+          "settings": {
+            "title": "Czy mogę zwrócić zamówiony produkt?",
+            "text": "<p>Tak, masz 14 dni na zwrot bez podania przyczyny. Produkt musi być nieużywany i w oryginalnym opakowaniu.</p>"
+          }
+        },
+        "text_zAGVYf": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer refunds?",
+            "text": "<p>Yes, we offer full and partial refunds.<br/><br/>Please enquire for more information about our Refund policy.</p>"
+          }
+        },
+        "text_HXcR3M": {
+          "type": "text",
+          "settings": {
+            "title": "What shipping methods do you offer?",
+            "text": "<p>We use all major carriers, and local courier partners. Use the shipping estimator in the cart to check your shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_DP4f3B",
+        "text_ihjRga",
+        "text_zAGVYf",
+        "text_HXcR3M"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Najczęściej zadawane pytania",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "section_icons_row_q3JFtg": {
       "type": "section-icons-row",
       "blocks": {
@@ -194,6 +247,7 @@
   "order": [
     "main",
     "related",
+    "section_accordions_qeLDmT",
     "section_icons_row_q3JFtg"
   ]
 }
