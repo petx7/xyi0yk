@@ -217,6 +217,40 @@
         "padding_bottom": 60
       }
     },
+    "section_banner_image_E96VV4": {
+      "type": "section-banner-image",
+      "blocks": {
+        "text_pbjNFV": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>RICA HAir</h1>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "text_pbjNFV"
+      ],
+      "name": "Banner image",
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "six-fifty-height-mobile",
+        "image": "shopify://shop_images/Rica-produkty-tlo-e1687264017404.png",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section_collection_V8Nj8M": {
       "type": "section-collection",
       "name": "Featured collection",
@@ -621,6 +655,7 @@
     "section-slideshow-0",
     "section-marquee-0",
     "section_list_collection_GBitmF",
+    "section_banner_image_E96VV4",
     "section_collection_V8Nj8M",
     "section-sticky-image-cards-0",
     "section_marquee_Ug8e8y",
