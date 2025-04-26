@@ -256,9 +256,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "rica-women",
-        "products_layout": "grid",
+        "products_layout": "carousel",
         "number_of_products": 8,
-        "products_per_row_on_desktop": 3,
+        "products_per_row_on_desktop": 4,
         "columns_mobile": "2",
         "text_alignment": "text-center",
         "title": "<p>Best Sellers Rica</p>",
