@@ -41,7 +41,7 @@
           "settings": {
             "stacked_button": false,
             "button_1_text": "ZOBACZ WSZYSTKO",
-            "button_1_link": "shopify://collections/all",
+            "button_1_link": "shopify://collections",
             "button_1_color": "btn--white",
             "button_1_style": "btn--solid-border",
             "button_1_size": "btn--small",
@@ -800,7 +800,7 @@
         "text_alignment": "text-left",
         "title": "<p>Best Sellers</p>",
         "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
+        "highlight_color": "#000000",
         "highlight_text_color": "",
         "heading_size": 100,
         "text": "",
