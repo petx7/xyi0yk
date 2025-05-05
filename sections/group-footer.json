@@ -61,6 +61,15 @@
             "logo_width": 50,
             "padding_top": 32
           }
+        },
+        "text_9MLwEK": {
+          "type": "text",
+          "settings": {
+            "alignment": "text-center",
+            "title": "",
+            "footer_text": "<p>Wszystkie produkty doTERRA dostępne w naszym sklepie pochodzą z oficjalnej dystrybucji i są dostarczane wyłącznie w oryginalnych opakowaniach.</p>",
+            "column_width": "100"
+          }
         }
       },
       "block_order": [
@@ -68,7 +77,8 @@
         "footer-block-1",
         "footer-block-2",
         "footer-block-4",
-        "logo_full_pULefE"
+        "logo_full_pULefE",
+        "text_9MLwEK"
       ],
       "settings": {
         "show_footer_wave": false,
