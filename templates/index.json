@@ -442,7 +442,7 @@
         "button_2_size": "btn--small",
         "bg_color_secondary": false,
         "enable_slider_mobile": true,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "overlay_text": true,
         "width": "wrapper",
         "add_gutter": true,
