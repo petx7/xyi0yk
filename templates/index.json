@@ -80,6 +80,216 @@
         "padding_bottom": 0
       }
     },
+    "section_marquee_tEVHni": {
+      "type": "section-marquee",
+      "blocks": {
+        "text_ngY6dJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p> <em><strong>Magia W</strong></em><strong>yobraźni</strong></p>",
+            "text_color": "",
+            "heading_highlight_type": "highlight-color",
+            "highlight_color": "#ff001b",
+            "highlight_text_color": "#ff0000",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 25,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "text_ngY6dJ"
+      ],
+      "settings": {
+        "layout": "marquee",
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "padding": 10,
+        "marquee_speed": 100,
+        "direction": "ticker-ltr",
+        "slider_speed": 7,
+        "show_arrows": false,
+        "text_caps": false,
+        "type_style": "subheading-text",
+        "text_size": 120,
+        "letter_spacing": 0,
+        "message_spacing": 10,
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "color": "#000000",
+        "border_color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_list_collection_6YTQDU": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection_bGGrnq": {
+          "type": "collection",
+          "settings": {
+            "collection": "olejki-eteryczne",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Exjt7c": {
+          "type": "collection",
+          "settings": {
+            "collection": "niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
+            "heading": "Roll-ony",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_zpgKT7": {
+          "type": "collection",
+          "settings": {
+            "collection": "opatentowane-mieszanki",
+            "custom_collection_image": "shopify://shop_images/2025-05-03_06.38.26.png",
+            "heading": "Mieszanki",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_qDD9tz": {
+          "type": "collection",
+          "settings": {
+            "collection": "linia-do-pielegnacji-skory-skin-care",
+            "custom_collection_image": "shopify://shop_images/peeling-do-twarzy-doterra.jpg",
+            "heading": "Pielęgnacja twarzy",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_GdVie7": {
+          "type": "collection",
+          "settings": {
+            "collection": "codzienna-witalnosc",
+            "heading": "Witalność",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_XJgVa6": {
+          "type": "collection",
+          "settings": {
+            "collection": "specjalistyczne-suplementy",
+            "custom_collection_image": "shopify://shop_images/doterra-a2z-chewable-iq-mega.jpg",
+            "heading": "Suplementy",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_KYxUeJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "zestawy-i-kolekcje",
+            "custom_collection_image": "shopify://shop_images/Cleanse-restore-kit-doterra.jpg",
+            "heading": "Zestawy",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_HHnh4p": {
+          "type": "collection",
+          "settings": {
+            "collection": "doterra-spa",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6cNgMz": {
+          "type": "collection",
+          "settings": {
+            "collection": "linia-produktow-do-ochrony-przed-sloncem-doterra™-sun",
+            "custom_collection_image": "shopify://shop_images/doterra-spray-do-ciala-przeciwsloneczny-mineralny.jpg",
+            "heading": "Słońce",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_a3gFdB": {
+          "type": "collection",
+          "settings": {
+            "collection": "dyfuzory",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Pi6wch": {
+          "type": "collection",
+          "settings": {
+            "collection": "pielegnacja-wlosow-doterra",
+            "custom_collection_image": "shopify://shop_images/2025-05-03_01.06.18.png",
+            "heading": "Włosy",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_WwhWKe": {
+          "type": "collection",
+          "settings": {
+            "collection": "metapwr™",
+            "custom_collection_image": "shopify://shop_images/System-MetaPWR-doTERRA.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_bGGrnq",
+        "collection_Exjt7c",
+        "collection_zpgKT7",
+        "collection_qDD9tz",
+        "collection_GdVie7",
+        "collection_XJgVa6",
+        "collection_KYxUeJ",
+        "collection_HHnh4p",
+        "collection_6cNgMz",
+        "collection_a3gFdB",
+        "collection_Pi6wch",
+        "collection_WwhWKe"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "Kolekcje doTERRA",
+        "heading_size": 100,
+        "layout": "carousel",
+        "alignment": "center",
+        "collections_per_row": 4,
+        "columns_mobile": "2",
+        "image_shape": "square",
+        "image_aspect_ratio": 1,
+        "enable_product_count": false,
+        "text_size": 130,
+        "overlay_text": false,
+        "enable_slider_mobile": false,
+        "section_bg_color": "",
+        "section_text_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "section-slideshow-0": {
       "type": "section-slideshow",
       "settings": {
@@ -196,6 +406,7 @@
         "collection_idzNfh",
         "collection_4yyHq3"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "title": "Nasze Kolekcje",
@@ -231,6 +442,7 @@
       "block_order": [
         "text_pbjNFV"
       ],
+      "disabled": true,
       "name": "Banner image",
       "settings": {
         "height": "original-height",
@@ -253,6 +465,7 @@
     },
     "section_collection_V8Nj8M": {
       "type": "section-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "collection": "rica-women",
@@ -508,7 +721,7 @@
       ],
       "name": "Featured product",
       "settings": {
-        "product": "naturica-curl-modeling-co-wash-dla-wlosow-kreconych",
+        "product": "air-x™-odswiezajaca-mieszanka-olejkow-eterycznych",
         "product_sticky_enable": true,
         "image_layout": "carousel",
         "image_width": "standard",
@@ -793,176 +1006,12 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_list_collection_6YTQDU": {
-      "type": "section-list-collection",
-      "blocks": {
-        "collection_bGGrnq": {
-          "type": "collection",
-          "settings": {
-            "collection": "olejki-eteryczne",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_Exjt7c": {
-          "type": "collection",
-          "settings": {
-            "collection": "niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
-            "heading": "Roll-ony",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_zpgKT7": {
-          "type": "collection",
-          "settings": {
-            "collection": "opatentowane-mieszanki",
-            "custom_collection_image": "shopify://shop_images/2025-05-03_06.38.26.png",
-            "heading": "Mieszanki",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_qDD9tz": {
-          "type": "collection",
-          "settings": {
-            "collection": "linia-do-pielegnacji-skory-skin-care",
-            "custom_collection_image": "shopify://shop_images/peeling-do-twarzy-doterra.jpg",
-            "heading": "Pielęgnacja twarzy",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_GdVie7": {
-          "type": "collection",
-          "settings": {
-            "collection": "codzienna-witalnosc",
-            "heading": "Witalność",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_XJgVa6": {
-          "type": "collection",
-          "settings": {
-            "collection": "specjalistyczne-suplementy",
-            "custom_collection_image": "shopify://shop_images/doterra-a2z-chewable-iq-mega.jpg",
-            "heading": "Suplementy",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_KYxUeJ": {
-          "type": "collection",
-          "settings": {
-            "collection": "zestawy-i-kolekcje",
-            "custom_collection_image": "shopify://shop_images/Cleanse-restore-kit-doterra.jpg",
-            "heading": "Zestawy",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_HHnh4p": {
-          "type": "collection",
-          "settings": {
-            "collection": "doterra-spa",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_6cNgMz": {
-          "type": "collection",
-          "settings": {
-            "collection": "linia-produktow-do-ochrony-przed-sloncem-doterra™-sun",
-            "custom_collection_image": "shopify://shop_images/doterra-spray-do-ciala-przeciwsloneczny-mineralny.jpg",
-            "heading": "Słońce",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_a3gFdB": {
-          "type": "collection",
-          "settings": {
-            "collection": "dyfuzory",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_Pi6wch": {
-          "type": "collection",
-          "settings": {
-            "collection": "pielegnacja-wlosow-doterra",
-            "custom_collection_image": "shopify://shop_images/2025-05-03_01.06.18.png",
-            "heading": "Włosy",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_WwhWKe": {
-          "type": "collection",
-          "settings": {
-            "collection": "metapwr™",
-            "custom_collection_image": "shopify://shop_images/System-MetaPWR-doTERRA.jpg",
-            "heading": "",
-            "block_text_color": "",
-            "bg_color": "",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_bGGrnq",
-        "collection_Exjt7c",
-        "collection_zpgKT7",
-        "collection_qDD9tz",
-        "collection_GdVie7",
-        "collection_XJgVa6",
-        "collection_KYxUeJ",
-        "collection_HHnh4p",
-        "collection_6cNgMz",
-        "collection_a3gFdB",
-        "collection_Pi6wch",
-        "collection_WwhWKe"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "title": "Kolekcje doTERRA",
-        "heading_size": 100,
-        "layout": "carousel",
-        "alignment": "center",
-        "collections_per_row": 4,
-        "columns_mobile": "2",
-        "image_shape": "square",
-        "image_aspect_ratio": 1,
-        "enable_product_count": false,
-        "text_size": 130,
-        "overlay_text": false,
-        "enable_slider_mobile": false,
-        "section_bg_color": "",
-        "section_text_color": "",
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
     "section_banner_image_LLtAEY",
+    "section_marquee_tEVHni",
+    "section_list_collection_6YTQDU",
     "section-slideshow-0",
     "section-marquee-0",
     "section_list_collection_GBitmF",
@@ -976,7 +1025,6 @@
     "section_accordions_EEJpDm",
     "section_icons_row_jdfMxj",
     "section_tab_collections_4WFpWy",
-    "section_grid_ApAiFp",
-    "section_list_collection_6YTQDU"
+    "section_grid_ApAiFp"
   ]
 }
