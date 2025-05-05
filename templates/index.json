@@ -861,7 +861,7 @@
           "type": "collection",
           "settings": {
             "collection": "zestawy-i-kolekcje",
-            "heading": "",
+            "heading": "Zestawy",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
