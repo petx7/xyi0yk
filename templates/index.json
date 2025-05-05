@@ -840,6 +840,16 @@
         "collection_GdVie7": {
           "type": "collection",
           "settings": {
+            "collection": "codzienna-witalnosc",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_XJgVa6": {
+          "type": "collection",
+          "settings": {
             "collection": "",
             "heading": "",
             "block_text_color": "",
@@ -864,6 +874,7 @@
         "collection_zpgKT7",
         "collection_qDD9tz",
         "collection_GdVie7",
+        "collection_XJgVa6",
         "collection_6cNgMz"
       ],
       "name": "Collection list",
