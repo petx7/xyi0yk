@@ -53,9 +53,9 @@
         "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
           "type": "product_accordion",
           "settings": {
-            "accordion_heading": "Shipping and returns",
+            "accordion_heading": "Polityka zwrotów i reklamacji",
             "heading_style": "font-body",
-            "accordion_text": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies</p>",
+            "accordion_text": "<p>Masz 14 dni na odstąpienie od umowy bez podania przyczyny.</p>",
             "accordion_page": "",
             "padding_bottom": 10
           }
