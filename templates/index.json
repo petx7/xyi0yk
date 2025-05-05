@@ -842,7 +842,7 @@
           "type": "collection",
           "settings": {
             "collection": "codzienna-witalnosc",
-            "heading": "",
+            "heading": "Witalność",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
