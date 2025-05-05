@@ -631,15 +631,15 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/2025-04-26_7.02.40_AM.png",
-            "image_mobile": "shopify://shop_images/2025-04-26_7.02.40_AM.png",
+            "image": "shopify://shop_images/IMG_3093.jpg",
+            "image_mobile": "shopify://shop_images/IMG_3093.jpg",
             "subheading": "",
-            "title": "<p>NATURICA Blond Rebuild Shampoo – szampon do włosów blond</p>",
+            "title": "<p>Niezbędne olejki eteryczne w buteleczce z kulką</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
             "button_text": "Kup teraz",
-            "button_link": "",
+            "button_link": "shopify://collections/niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
