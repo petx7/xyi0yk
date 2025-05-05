@@ -43,9 +43,9 @@
         "product_accordion": {
           "type": "product_accordion",
           "settings": {
-            "accordion_heading": "Materials and specs",
+            "accordion_heading": "Polityka dostawy",
             "heading_style": "font-body",
-            "accordion_text": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies</p>",
+            "accordion_text": "<p><strong>Realizacja zamówienia:</strong> 2–4 dni robocze od zaksięgowania płatności.</p>",
             "accordion_page": "",
             "padding_bottom": 10
           }
