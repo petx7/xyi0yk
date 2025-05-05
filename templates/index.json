@@ -672,8 +672,8 @@
         "collection_whz8gc": {
           "type": "collection",
           "settings": {
-            "title": "New Arrivals",
-            "tab_collection": "",
+            "title": "Suplementy",
+            "tab_collection": "codzienna-witalnosc",
             "number_of_products": 6,
             "show_image": false,
             "overlay_opacity": 10,
