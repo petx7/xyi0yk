@@ -64,7 +64,9 @@
           "type": "upsell",
           "settings": {
             "product_list": [
-              "sebum-control-shampoo-szampon-do-przetluszczajacej-sie-skory-glowy-900ml-insight"
+              "air-x™-odswiezajaca-mieszanka-olejkow-eterycznych",
+              "alpha-crs-™-wsparcie-komorkowe-i-antyoksydacyjne",
+              "aromatouch™-relaksujaca-mieszanka-do-masazu-i-aromaterapii"
             ],
             "padding_bottom": 20
           }
@@ -229,9 +231,9 @@
         "heading_size": 120,
         "text_size": 100,
         "bg_color": "",
-        "text_color": "#333",
+        "text_color": "#333333",
         "box_color": "",
-        "color_border": "#333",
+        "color_border": "#333333",
         "button_text": "",
         "button_link": "",
         "button_color": "btn--black",
