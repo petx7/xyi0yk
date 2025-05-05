@@ -1065,15 +1065,16 @@
           "type": "image",
           "settings": {
             "width": "33.33",
+            "image": "shopify://shop_images/IMG_3081.jpg",
             "overlay_opacity": 10,
-            "text_position": "center",
+            "text_position": "top-left",
             "subheading": "",
-            "title": "New Arrivals",
-            "text": "Add more info or delete this text",
+            "title": "olejki z aplikatorem kulkowym",
+            "text": "",
             "button_1_text": "Shop Now",
             "button_1_link": "",
             "button_2_text": "",
-            "button_2_link": "",
+            "button_2_link": "shopify://collections/niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
             "overlay_text_color": "text-light"
           }
         }
