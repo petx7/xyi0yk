@@ -719,7 +719,7 @@
           "type": "image",
           "settings": {
             "width": "100",
-            "image": "shopify://shop_images/IMG_3078.jpg",
+            "image": "shopify://shop_images/IMG_3082.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
@@ -738,7 +738,7 @@
             "width": "33.33",
             "image": "shopify://shop_images/IMG_3078.jpg",
             "overlay_opacity": 10,
-            "text_position": "center",
+            "text_position": "top-left",
             "subheading": "",
             "title": "Olejki pojedencze",
             "text": "",
