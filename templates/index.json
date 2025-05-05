@@ -1051,6 +1051,66 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_press_xTwXRF": {
+      "type": "section-press",
+      "blocks": {
+        "press_4w87NM": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_dee36ec4-61ea-4443-9848-78e5bb95f47c.svg",
+            "logo_width": 70
+          }
+        },
+        "press_KVdbHp": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_d06e2612-db61-4311-9116-e53178c755d1.svg",
+            "logo_width": 70
+          }
+        },
+        "press_iQ4NY7": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_2fe66ad4-ac7b-40ff-b43a-9552abf860e0.svg",
+            "logo_width": 70
+          }
+        },
+        "press_Bnfxyb": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_d1f996b6-6a7c-4fd6-bc63-b4c9006942ea.png",
+            "logo_width": 70
+          }
+        }
+      },
+      "block_order": [
+        "press_4w87NM",
+        "press_KVdbHp",
+        "press_iQ4NY7",
+        "press_Bnfxyb"
+      ],
+      "name": "Press/Logo",
+      "settings": {
+        "title": "",
+        "show_quotations": true,
+        "show_rounded_corners": false,
+        "logo_opacity": 50,
+        "autoplay": true,
+        "duration": 4,
+        "bg_color_secondary": false,
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -1072,6 +1132,7 @@
     "section_product_m6VFfX",
     "section_tab_collections_4WFpWy",
     "section_accordions_EEJpDm",
-    "section_icons_row_jdfMxj"
+    "section_icons_row_jdfMxj",
+    "section_press_xTwXRF"
   ]
 }
