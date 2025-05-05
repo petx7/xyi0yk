@@ -633,7 +633,7 @@
         "section-sticky-image-cards-0-block-2": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/IMG_3092.jpg",
+            "image": "shopify://shop_images/2025-04-26_7.02.40_AM.png",
             "image_mobile": "shopify://shop_images/2025-04-26_7.02.40_AM.png",
             "subheading": "",
             "title": "<p>NATURICA Blond Rebuild Shampoo – szampon do włosów blond</p>",
@@ -1024,6 +1024,22 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_image_BaHKUH": {
+      "type": "section-image",
+      "name": "Image",
+      "settings": {
+        "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
@@ -1043,6 +1059,7 @@
     "section_product_m6VFfX",
     "section_accordions_EEJpDm",
     "section_icons_row_jdfMxj",
-    "section_tab_collections_4WFpWy"
+    "section_tab_collections_4WFpWy",
+    "section_image_BaHKUH"
   ]
 }
