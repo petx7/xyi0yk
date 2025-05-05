@@ -308,88 +308,6 @@
         "heading_size": 160
       }
     },
-    "section_grid_ApAiFp": {
-      "type": "section-grid",
-      "blocks": {
-        "image_8G9By8": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3078.jpg",
-            "overlay_opacity": 10,
-            "text_position": "top-left",
-            "subheading": "",
-            "title": "Olejki pojedencze",
-            "text": "",
-            "button_1_text": "Zobacz więcej",
-            "button_1_link": "shopify://collections/olejki-eteryczne",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
-        "image_7gqr9y": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3083.jpg",
-            "overlay_opacity": 10,
-            "text_position": "bottom-right",
-            "subheading": "",
-            "title": "Olejki mieszanki",
-            "text": "",
-            "button_1_text": "zobacz więcej",
-            "button_1_link": "shopify://collections/opatentowane-mieszanki",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
-        "image_bymTPq": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3081.jpg",
-            "overlay_opacity": 10,
-            "text_position": "top-left",
-            "subheading": "",
-            "title": "olejki z aplikatorem kulkowym",
-            "text": "",
-            "button_1_text": "zobacz więcej",
-            "button_1_link": "shopify://collections/niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        }
-      },
-      "block_order": [
-        "image_8G9By8",
-        "image_7gqr9y",
-        "image_bymTPq"
-      ],
-      "name": "Grid",
-      "settings": {
-        "desktop_height": "five-fifty-height",
-        "enable_mobile_height": false,
-        "mobile_height": "four-fifty-height-mobile",
-        "heading_size": 130,
-        "button_1_color": "btn--white",
-        "button_1_style": "btn--text",
-        "button_1_size": "btn--small",
-        "button_2_color": "btn--black",
-        "button_2_style": "btn--text",
-        "button_2_size": "btn--small",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": true,
-        "columns_mobile": "1",
-        "overlay_text": true,
-        "width": "wrapper",
-        "add_gutter": true,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "section-marquee-0": {
       "type": "section-marquee",
       "blocks": {
@@ -432,6 +350,106 @@
         "border_color": "#000000",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "section_grid_DnhzzC": {
+      "type": "section-grid",
+      "blocks": {
+        "image_gx7TUh": {
+          "type": "image",
+          "settings": {
+            "width": "100",
+            "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_ftjzWy": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_3078.jpg",
+            "overlay_opacity": 10,
+            "text_position": "top-left",
+            "subheading": "",
+            "title": "Olejki pojedencze",
+            "text": "",
+            "button_1_text": "zobacz więcej",
+            "button_1_link": "shopify://collections/olejki-eteryczne",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_RtH3GD": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_3083.jpg",
+            "overlay_opacity": 10,
+            "text_position": "bottom-right",
+            "subheading": "",
+            "title": "Olejki mieszanki",
+            "text": "",
+            "button_1_text": "zobacz więcej",
+            "button_1_link": "shopify://collections/opatentowane-mieszanki",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_4XbKGk": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_3081.jpg",
+            "overlay_opacity": 10,
+            "text_position": "top-left",
+            "subheading": "",
+            "title": "olejki z aplikatorem kulkowym",
+            "text": "",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "shopify://collections/niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_gx7TUh",
+        "image_ftjzWy",
+        "image_RtH3GD",
+        "image_4XbKGk"
+      ],
+      "name": "Grid",
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "section_list_collection_GBitmF": {
@@ -1006,106 +1024,6 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_grid_DnhzzC": {
-      "type": "section-grid",
-      "blocks": {
-        "image_gx7TUh": {
-          "type": "image",
-          "settings": {
-            "width": "100",
-            "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
-            "overlay_opacity": 10,
-            "text_position": "center",
-            "subheading": "",
-            "title": "",
-            "text": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
-        "image_ftjzWy": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3078.jpg",
-            "overlay_opacity": 10,
-            "text_position": "top-left",
-            "subheading": "",
-            "title": "Olejki pojedencze",
-            "text": "",
-            "button_1_text": "zobacz więcej",
-            "button_1_link": "shopify://collections/olejki-eteryczne",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
-        "image_RtH3GD": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3083.jpg",
-            "overlay_opacity": 10,
-            "text_position": "bottom-right",
-            "subheading": "",
-            "title": "Olejki mieszanki",
-            "text": "",
-            "button_1_text": "zobacz więcej",
-            "button_1_link": "shopify://collections/opatentowane-mieszanki",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
-        "image_4XbKGk": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify://shop_images/IMG_3081.jpg",
-            "overlay_opacity": 10,
-            "text_position": "top-left",
-            "subheading": "",
-            "title": "olejki z aplikatorem kulkowym",
-            "text": "",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "shopify://collections/niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
-            "overlay_text_color": "text-light"
-          }
-        }
-      },
-      "block_order": [
-        "image_gx7TUh",
-        "image_ftjzWy",
-        "image_RtH3GD",
-        "image_4XbKGk"
-      ],
-      "name": "Grid",
-      "settings": {
-        "desktop_height": "five-fifty-height",
-        "enable_mobile_height": false,
-        "mobile_height": "four-fifty-height-mobile",
-        "heading_size": 130,
-        "button_1_color": "btn--white",
-        "button_1_style": "btn--text",
-        "button_1_size": "btn--small",
-        "button_2_color": "btn--black",
-        "button_2_style": "btn--text",
-        "button_2_size": "btn--small",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": true,
-        "columns_mobile": "1",
-        "overlay_text": true,
-        "width": "wrapper",
-        "add_gutter": true,
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
@@ -1113,8 +1031,8 @@
     "section_marquee_tEVHni",
     "section_list_collection_6YTQDU",
     "section-slideshow-0",
-    "section_grid_ApAiFp",
     "section-marquee-0",
+    "section_grid_DnhzzC",
     "section_list_collection_GBitmF",
     "section_banner_image_E96VV4",
     "section_collection_V8Nj8M",
@@ -1125,7 +1043,6 @@
     "section_product_m6VFfX",
     "section_accordions_EEJpDm",
     "section_icons_row_jdfMxj",
-    "section_tab_collections_4WFpWy",
-    "section_grid_DnhzzC"
+    "section_tab_collections_4WFpWy"
   ]
 }
