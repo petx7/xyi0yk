@@ -599,15 +599,15 @@
         "section-sticky-image-cards-0-block-0": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/2025-04-26_6.40.53_AM.png",
-            "image_mobile": "shopify://shop_images/2025-04-26_6.40.53_AM.png",
+            "image": "shopify://shop_images/doterra-balsam-do-ciala-twarzy-przeciwsloneczny-mineralny.jpg",
+            "image_mobile": "shopify://shop_images/doterra-balsam-do-ciala-twarzy-przeciwsloneczny-mineralny.jpg",
             "subheading": "",
-            "title": "<p>NATURICA Curl Modeling Shampoo – szampon do włosów kręconych</p>",
+            "title": "<h1>Mineralny balsam SPF 30+ dōTERRA – twarz i ciało</h1>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
             "button_text": "Kup teraz",
-            "button_link": "",
+            "button_link": "shopify://products/mineralny-balsam-spf-30-doterra-twarz-i-cialo",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
