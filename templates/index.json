@@ -715,14 +715,14 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify://shop_images/IMG_3080.jpg",
+            "image": "shopify://shop_images/doTERRA-Basics-Kit-SPA-alapcsomag-olajmania.jpg",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "",
-            "title": "Szampon RICA Opuntia Oil for Men",
+            "title": "spa",
             "text": "",
             "button_1_text": "Kup teraz",
-            "button_1_link": "",
+            "button_1_link": "shopify://collections/doterra-spa",
             "button_2_text": "",
             "button_2_link": "",
             "overlay_text_color": "text-light"
