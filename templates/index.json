@@ -906,6 +906,16 @@
             "bg_color": "",
             "overlay_opacity": 30
           }
+        },
+        "collection_WwhWKe": {
+          "type": "collection",
+          "settings": {
+            "collection": "metapwr™",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
@@ -919,7 +929,8 @@
         "collection_HHnh4p",
         "collection_6cNgMz",
         "collection_a3gFdB",
-        "collection_Pi6wch"
+        "collection_Pi6wch",
+        "collection_WwhWKe"
       ],
       "name": "Collection list",
       "settings": {
