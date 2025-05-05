@@ -832,6 +832,7 @@
           "type": "collection",
           "settings": {
             "collection": "linia-do-pielegnacji-skory-skin-care",
+            "custom_collection_image": "shopify://shop_images/peeling-do-twarzy-doterra.jpg",
             "heading": "Pielęgnacja twarzy",
             "block_text_color": "",
             "bg_color": "",
