@@ -1090,13 +1090,53 @@
             "press_logo": "shopify://shop_images/download_d1f996b6-6a7c-4fd6-bc63-b4c9006942ea.png",
             "logo_width": 70
           }
+        },
+        "press_iNkjPj": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_dee36ec4-61ea-4443-9848-78e5bb95f47c.svg",
+            "logo_width": 70
+          }
+        },
+        "press_KXLj4M": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_d06e2612-db61-4311-9116-e53178c755d1.svg",
+            "logo_width": 70
+          }
+        },
+        "press_jwpcG9": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_2fe66ad4-ac7b-40ff-b43a-9552abf860e0.svg",
+            "logo_width": 70
+          }
+        },
+        "press_fBN7Di": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "",
+            "press_logo": "shopify://shop_images/download_d1f996b6-6a7c-4fd6-bc63-b4c9006942ea.png",
+            "logo_width": 70
+          }
         }
       },
       "block_order": [
         "press_4w87NM",
         "press_KVdbHp",
         "press_iQ4NY7",
-        "press_Bnfxyb"
+        "press_Bnfxyb",
+        "press_iNkjPj",
+        "press_KXLj4M",
+        "press_jwpcG9",
+        "press_fBN7Di"
       ],
       "name": "Press/Logo",
       "settings": {
