@@ -793,6 +793,99 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_list_collection_6YTQDU": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection_bGGrnq": {
+          "type": "collection",
+          "settings": {
+            "collection": "olejki-eteryczne",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Exjt7c": {
+          "type": "collection",
+          "settings": {
+            "collection": "niezbedne-olejki-eteryczne-w-buteleczce-z-kulka",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_zpgKT7": {
+          "type": "collection",
+          "settings": {
+            "collection": "opatentowane-mieszanki",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_qDD9tz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_GdVie7": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6cNgMz": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_bGGrnq",
+        "collection_Exjt7c",
+        "collection_zpgKT7",
+        "collection_qDD9tz",
+        "collection_GdVie7",
+        "collection_6cNgMz"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "Collections",
+        "heading_size": 100,
+        "layout": "carousel",
+        "alignment": "center",
+        "collections_per_row": 4,
+        "columns_mobile": "1",
+        "image_shape": "circle",
+        "image_aspect_ratio": 1,
+        "enable_product_count": false,
+        "text_size": 130,
+        "overlay_text": false,
+        "enable_slider_mobile": true,
+        "section_bg_color": "",
+        "section_text_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -810,6 +903,7 @@
     "section_accordions_EEJpDm",
     "section_icons_row_jdfMxj",
     "section_tab_collections_4WFpWy",
-    "section_grid_ApAiFp"
+    "section_grid_ApAiFp",
+    "section_list_collection_6YTQDU"
   ]
 }
