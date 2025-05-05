@@ -352,6 +352,22 @@
         "padding_bottom": 0
       }
     },
+    "section_image_BaHKUH": {
+      "type": "section-image",
+      "name": "Image",
+      "settings": {
+        "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "section_grid_DnhzzC": {
       "type": "section-grid",
       "blocks": {
@@ -1006,22 +1022,6 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_image_BaHKUH": {
-      "type": "section-image",
-      "name": "Image",
-      "settings": {
-        "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
-        "height": "original-height",
-        "enable_mobile_height": false,
-        "mobile_height": "original-height-mobile",
-        "enable_stretch": true,
-        "image_position": "center",
-        "bg_color_secondary": false,
-        "width": "wrapper--full-padded",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
@@ -1030,6 +1030,7 @@
     "section_list_collection_6YTQDU",
     "section-slideshow-0",
     "section-marquee-0",
+    "section_image_BaHKUH",
     "section_grid_DnhzzC",
     "section_list_collection_GBitmF",
     "section_banner_image_E96VV4",
@@ -1041,7 +1042,6 @@
     "section_product_m6VFfX",
     "section_accordions_EEJpDm",
     "section_icons_row_jdfMxj",
-    "section_tab_collections_4WFpWy",
-    "section_image_BaHKUH"
+    "section_tab_collections_4WFpWy"
   ]
 }
