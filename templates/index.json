@@ -788,6 +788,35 @@
         "padding_bottom": 80
       }
     },
+    "section_collection_WjENtb": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "metapwr™",
+        "products_layout": "grid",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Best Sellers</p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "zobacz więcej",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "section_product_m6VFfX": {
       "type": "section-product",
       "blocks": {
@@ -1022,35 +1051,6 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
-    },
-    "section_collection_WjENtb": {
-      "type": "section-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "metapwr™",
-        "products_layout": "grid",
-        "number_of_products": 8,
-        "products_per_row_on_desktop": 4,
-        "columns_mobile": "2",
-        "text_alignment": "text-left",
-        "title": "<p>Best Sellers</p>",
-        "heading_highlight_type": "underline-hand-drawn",
-        "highlight_color": "#000",
-        "highlight_text_color": "",
-        "heading_size": 100,
-        "text": "",
-        "text_size": 100,
-        "button_position": "top",
-        "button_text": "zobacz więcej",
-        "button_color": "btn--black",
-        "button_style": "btn--text",
-        "button_size": "btn--large",
-        "bg_color_secondary": false,
-        "enable_slider_mobile": true,
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
@@ -1068,10 +1068,10 @@
     "section_marquee_Ug8e8y",
     "section-grid-1",
     "section-newsletter-0",
+    "section_collection_WjENtb",
     "section_product_m6VFfX",
     "section_tab_collections_4WFpWy",
     "section_accordions_EEJpDm",
-    "section_icons_row_jdfMxj",
-    "section_collection_WjENtb"
+    "section_icons_row_jdfMxj"
   ]
 }
