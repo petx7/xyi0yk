@@ -716,14 +716,14 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify://shop_images/2025-04-26_6.56.25_AM.png",
+            "image": "shopify://shop_images/IMG_3082.jpg",
             "overlay_opacity": 10,
             "text_position": "bottom-left",
             "subheading": "",
             "title": "NATURICA Energizing Miracle Shampoo",
             "text": "",
             "button_1_text": "Kup teraz",
-            "button_1_link": "",
+            "button_1_link": "shopify://collections/codzienna-witalnosc",
             "button_2_text": "",
             "button_2_link": "",
             "overlay_text_color": "text-light"
