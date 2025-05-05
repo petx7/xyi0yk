@@ -821,7 +821,7 @@
           "type": "collection",
           "settings": {
             "collection": "opatentowane-mieszanki",
-            "heading": "",
+            "heading": "Mieszanki",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
