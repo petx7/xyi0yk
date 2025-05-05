@@ -58,8 +58,8 @@
           "settings": {
             "alignment": "text-center",
             "image": "shopify://shop_images/doterra-wellness-advocate-white_297751bb-e82f-4dd9-a17f-246481539967.png",
-            "logo_width": 20,
-            "padding_top": 40
+            "logo_width": 50,
+            "padding_top": 32
           }
         }
       },
