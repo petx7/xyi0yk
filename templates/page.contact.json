@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -16,23 +25,24 @@
         "template--18952593998145__59699d9d-c66c-4bd5-a248-64f1b1587cd5-16831285413c69ee80-0": {
           "type": "subheading",
           "settings": {
-            "text": "<p>Welcome to<\/p>",
+            "text": "<p>Welcome to</p>",
             "size": 100
           }
         },
         "template--18952593998145__59699d9d-c66c-4bd5-a248-64f1b1587cd5-16831285413c69ee80-1": {
           "type": "heading",
           "settings": {
-            "text": "<p>Contact<\/p>",
+            "text": "<p>Contact</p>",
             "size": 180,
             "heading_highlight_type": "italics",
-            "highlight_color": "rgba(0,0,0,0)"
+            "highlight_color": "rgba(0,0,0,0)",
+            "highlight_text_color": ""
           }
         },
         "template--18952593998145__59699d9d-c66c-4bd5-a248-64f1b1587cd5-16831285413c69ee80-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.</p>",
             "size": 100
           }
         },
@@ -40,8 +50,9 @@
           "type": "button",
           "disabled": true,
           "settings": {
+            "stacked_button": false,
             "button_1_text": "Shop All",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_1_color": "btn--white",
             "button_1_style": "btn--solid-border",
             "button_1_size": "btn--small",
@@ -64,10 +75,17 @@
         "enable_mobile_height": false,
         "mobile_height": "four-fifty-height-mobile",
         "overlay_opacity": 10,
+        "transition": "zoom-out",
         "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
         "text_width": "normal",
         "text_position": "center",
-        "text_color": "text-light"
+        "text_alignment": "text-left",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "locations": {
@@ -77,21 +95,21 @@
           "type": "locations",
           "settings": {
             "title": "566 Emerson Street Palo Alto, California",
-            "working_time": "<p>Mon - Fri: 8am - 5pm<\/p><p>Sat: Closed<\/p><p>Sun: Closed<\/p>"
+            "working_time": "<p>Mon - Fri: 8am - 5pm</p><p>Sat: Closed</p><p>Sun: Closed</p>"
           }
         },
         "locations-1": {
           "type": "locations",
           "settings": {
             "title": "566 Emerson Street Palo Alto, California",
-            "working_time": "<p>Mon - Fri: 8am - 5pm<\/p><p>Sat: Closed<\/p><p>Sun: Closed<\/p>"
+            "working_time": "<p>Mon - Fri: 8am - 5pm</p><p>Sat: Closed</p><p>Sun: Closed</p>"
           }
         },
         "locations-2": {
           "type": "locations",
           "settings": {
             "title": "566 Emerson Street Palo Alto, California",
-            "working_time": "<p>Mon - Fri: 8am - 5pm<\/p><p>Sat: Closed<\/p><p>Sun: Closed<\/p>"
+            "working_time": "<p>Mon - Fri: 8am - 5pm</p><p>Sat: Closed</p><p>Sun: Closed</p>"
           }
         }
       },
@@ -114,27 +132,27 @@
         "contact-form-0": {
           "type": "heading",
           "settings": {
-            "title": "Contact us"
+            "title": "Skontaktuj się z nami"
           }
         },
         "contact-form-1": {
           "type": "text",
           "settings": {
-            "title": "Name",
+            "title": "Imię",
             "required": false
           }
         },
         "contact-form-2": {
           "type": "email",
           "settings": {
-            "title": "Email",
+            "title": "Adres e-mail",
             "required": true
           }
         },
         "contact-form-3": {
           "type": "body",
           "settings": {
-            "title": "Message",
+            "title": "Wiadomość",
             "required": true
           }
         }
