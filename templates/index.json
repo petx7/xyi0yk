@@ -715,23 +715,6 @@
     "section_grid_ApAiFp": {
       "type": "section-grid",
       "blocks": {
-        "image_chiMTp": {
-          "type": "image",
-          "settings": {
-            "width": "100",
-            "image": "shopify://shop_images/IMG_3082.jpg",
-            "overlay_opacity": 10,
-            "text_position": "center",
-            "subheading": "",
-            "title": "Trending",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
         "image_8G9By8": {
           "type": "image",
           "settings": {
@@ -753,13 +736,14 @@
           "type": "image",
           "settings": {
             "width": "33.33",
+            "image": "shopify://shop_images/IMG_3083.jpg",
             "overlay_opacity": 10,
-            "text_position": "center",
+            "text_position": "bottom-right",
             "subheading": "",
-            "title": "Best Sellers",
-            "text": "Add more info or delete this text",
-            "button_1_text": "Shop Now",
-            "button_1_link": "",
+            "title": "Olejki mieszanki",
+            "text": "",
+            "button_1_text": "zobacz więcej",
+            "button_1_link": "shopify://collections/opatentowane-mieszanki",
             "button_2_text": "",
             "button_2_link": "",
             "overlay_text_color": "text-light"
@@ -784,7 +768,6 @@
         }
       },
       "block_order": [
-        "image_chiMTp",
         "image_8G9By8",
         "image_7gqr9y",
         "image_bymTPq"
