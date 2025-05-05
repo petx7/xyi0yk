@@ -19,7 +19,7 @@
           "settings": {
             "alignment": "text-left",
             "title": "Magia Wyobraźni",
-            "footer_text": "<p>jest oficjalnym Wellness Advocate marki dōTERRA. Poznaj naturalną moc olejków eterycznych na stronie: www.<a href=\"https://www.mydoterra.com\">mydoterra.com</a></p>",
+            "footer_text": "<p><strong>jest oficjalnym Wellness Advocate marki dōTERRA. Poznaj naturalną moc olejków eterycznych na stronie: </strong><a href=\"http://www.mydoterra.com\"><strong>www.mydoterra.com</strong></a></p>",
             "column_width": "20"
           }
         },
