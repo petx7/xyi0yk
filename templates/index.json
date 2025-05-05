@@ -880,6 +880,26 @@
         "collection_6cNgMz": {
           "type": "collection",
           "settings": {
+            "collection": "linia-produktow-do-ochrony-przed-sloncem-doterra™-sun",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_a3gFdB": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Pi6wch": {
+          "type": "collection",
+          "settings": {
             "collection": "",
             "heading": "",
             "block_text_color": "",
@@ -897,7 +917,9 @@
         "collection_XJgVa6",
         "collection_KYxUeJ",
         "collection_HHnh4p",
-        "collection_6cNgMz"
+        "collection_6cNgMz",
+        "collection_a3gFdB",
+        "collection_Pi6wch"
       ],
       "name": "Collection list",
       "settings": {
