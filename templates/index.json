@@ -355,23 +355,6 @@
     "section_grid_DnhzzC": {
       "type": "section-grid",
       "blocks": {
-        "image_gx7TUh": {
-          "type": "image",
-          "settings": {
-            "width": "100",
-            "image": "shopify://shop_images/doTERRA_Wellness_Advocate_Banner.jpg",
-            "overlay_opacity": 10,
-            "text_position": "center",
-            "subheading": "",
-            "title": "",
-            "text": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "overlay_text_color": "text-light"
-          }
-        },
         "image_ftjzWy": {
           "type": "image",
           "settings": {
@@ -425,7 +408,6 @@
         }
       },
       "block_order": [
-        "image_gx7TUh",
         "image_ftjzWy",
         "image_RtH3GD",
         "image_4XbKGk"
