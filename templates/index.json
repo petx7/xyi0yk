@@ -616,15 +616,15 @@
         "section-sticky-image-cards-0-block-1": {
           "type": "card",
           "settings": {
-            "image": "shopify://shop_images/dry-shampoo-1.jpg",
-            "image_mobile": "shopify://shop_images/dry-shampoo-1.jpg",
+            "image": "shopify://shop_images/IMG_3079.jpg",
+            "image_mobile": "shopify://shop_images/IMG_3079.jpg",
             "subheading": "",
-            "title": "<p>Suchy szampon Dry Shampoo – objętość i odświeżenie</p>",
+            "title": "<p>Specjalistyczne suplementy</p>",
             "heading_size": 160,
             "truncate_text": true,
             "heading_length": 15,
             "button_text": "Kup teraz",
-            "button_link": "",
+            "button_link": "shopify://collections/specjalistyczne-suplementy",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
