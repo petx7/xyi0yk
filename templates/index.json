@@ -82,26 +82,6 @@
     },
     "section_marquee_tEVHni": {
       "type": "section-marquee",
-      "blocks": {
-        "text_ngY6dJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p> <em><strong>Magia W</strong></em><strong>yobraźni</strong></p>",
-            "text_color": "",
-            "heading_highlight_type": "highlight-color",
-            "highlight_color": "#ff001b",
-            "highlight_text_color": "#ff0000",
-            "icon_name": "none",
-            "icon_color": "",
-            "icon_width": 25,
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "text_ngY6dJ"
-      ],
       "settings": {
         "layout": "marquee",
         "show_top_border": false,
@@ -310,26 +290,6 @@
     },
     "section-marquee-0": {
       "type": "section-marquee",
-      "blocks": {
-        "section-marquee-0-block-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p> <em><strong>Magia W</strong></em><strong>yobraźni</strong></p>",
-            "text_color": "",
-            "heading_highlight_type": "highlight-color",
-            "highlight_color": "#ff001b",
-            "highlight_text_color": "#ff0000",
-            "icon_name": "none",
-            "icon_color": "",
-            "icon_width": 25,
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "section-marquee-0-block-2"
-      ],
       "settings": {
         "layout": "marquee",
         "show_top_border": false,
