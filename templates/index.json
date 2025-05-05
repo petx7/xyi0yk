@@ -831,7 +831,7 @@
           "type": "collection",
           "settings": {
             "collection": "linia-do-pielegnacji-skory-skin-care",
-            "heading": "",
+            "heading": "Pielęgnacja twarzy",
             "block_text_color": "",
             "bg_color": "",
             "overlay_opacity": 30
