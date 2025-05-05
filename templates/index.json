@@ -648,6 +648,69 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "section_tab_collections_4WFpWy": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "collection_TdzREN": {
+          "type": "collection",
+          "settings": {
+            "title": "Olejki pojedyncze",
+            "tab_collection": "olejki-eteryczne",
+            "number_of_products": 6,
+            "show_image": false,
+            "overlay_opacity": 10,
+            "heading": "",
+            "text_color": "text-light",
+            "button_text": "View All",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "collection_whz8gc": {
+          "type": "collection",
+          "settings": {
+            "title": "New Arrivals",
+            "tab_collection": "",
+            "number_of_products": 6,
+            "show_image": false,
+            "overlay_opacity": 10,
+            "heading": "",
+            "text_color": "text-light",
+            "button_text": "View All",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "collection_TdzREN",
+        "collection_whz8gc"
+      ],
+      "name": "Tab collections",
+      "settings": {
+        "columns_mobile": "1",
+        "image_aspect_ratio": 1.3,
+        "text_alignment": "text-center",
+        "title": "Best Sellers",
+        "text": "Our favorite picks for the season",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "button_position": "top",
+        "show_buttons": true,
+        "collection_button_text": "Shop Now",
+        "collection_button_color": "btn--black",
+        "collection_button_style": "btn--solid",
+        "collection_button_size": "btn--small",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
@@ -663,6 +726,7 @@
     "section-newsletter-0",
     "section_product_m6VFfX",
     "section_accordions_EEJpDm",
-    "section_icons_row_jdfMxj"
+    "section_icons_row_jdfMxj",
+    "section_tab_collections_4WFpWy"
   ]
 }
