@@ -719,6 +719,7 @@
           "type": "image",
           "settings": {
             "width": "100",
+            "image": "shopify://shop_images/IMG_3078.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
